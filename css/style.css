@@ -2035,7 +2035,7 @@ form label {
 }
 
 .ubea-section-overflow {
-  overflow: hidden;
+  /*overflow: hidden;*/
   position: relative;
 }
 
