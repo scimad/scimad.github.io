@@ -2048,3 +2048,57 @@ form label {
 }
 
 /*# sourceMappingURL=style.css.map */
+
+/*Bootcamp progress added*/
+.bootcamp-progress-wrap{
+
+}
+.progress-title{
+  font-weight: bold;
+  text-align: center;
+}
+.progress-subtitle{
+  text-align: center;
+}
+.progress-item-wrap{
+  width: 70%;
+  box-shadow: 0 0 3px grey;
+  margin: 0 auto;
+  padding: 0 20px;
+  margin-bottom: 10px;
+}
+@media (max-width: 720px){
+  .progress-item-wrap{
+    width: 95%;
+  }
+}
+.bootcamp-progress-wrap .progress-item-wrap .progress-left-section,.progress-middle-section{
+  float: left;
+}
+.progress-left-section{
+  font-size: 40px;
+  width: 10%;
+  display: inline-block;
+  vertical-align: middle;
+}
+@media (max-width: 470px){
+  .progress-left-section{
+    width: 15%;
+  }
+}
+.progress-middle-section{
+  padding: 20px 0;
+  width: 70%;
+}
+
+.progress-right-section{
+  float: right;
+  font-size: 40px;
+  color: green;
+  display: inline-block;
+  vertical-align: middle;
+  width: 10%;
+}
+.not-completed{
+  color: grey;
+}
