@@ -2089,6 +2089,8 @@ form label {
 .progress-middle-section{
   padding: 20px 0;
   width: 70%;
+  color: #1a1a1a;
+  font-size: 18px;
 }
 
 .progress-right-section{
