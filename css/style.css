@@ -2104,3 +2104,95 @@ form label {
 .not-completed{
   color: grey;
 }
+
+
+/*Donation page*/
+
+.donation-method-card-inner{
+  box-shadow: 0 0 3px green;
+  padding: 20px;
+  border-radius: 5px;
+}
+.donation-method-logo{
+  width: 150px;
+  height: 100px;
+  margin: 0 auto;
+}
+.donation-method-logo img{
+  width: 100%;
+  object-fit: contain;
+}
+.donate-btn-wrap a{
+  color: green;
+}
+.donate-btn{
+  border: 1px solid green;
+  border-radius: 30px;
+  text-align: center;
+  width: 75%;
+  margin: 0 auto;
+  padding: 5px 0;
+}
+.donate-btn:hover{
+  background: green;
+  color: white;
+}
+
+.summary-list-wrap{
+  width: 400px;
+  border-top: 1px solid green;
+  border-bottom: 1px solid green;
+  margin: 0 auto;
+  padding: 15px 0;
+}
+.summary-method{
+  float: left;
+}
+.summary-amount{
+  float: right;
+}
+
+.donors-list-wrap{
+  width: 60%;
+  margin: 0 auto;
+}
+ul{
+  padding: 0;
+}
+li{
+  list-style: none;
+}
+.donors-list-wrap-inner ul li:nth-child(odd) .donors-item{
+  background: white;
+}
+.donors-list-wrap-inner ul li:nth-child(even) .donors-item{
+  background: #f2f2f2;
+}
+.donors-list-wrap-inner ul li:hover .donors-item{
+  background: #dce4da;
+}
+.donors-heading{
+  background: #037571;
+  color: white;
+}
+/*.donors-item{
+  background: #edf4f6;
+  border-bottom: 1px solid #edf4f6;
+}*/
+.donors-sn{
+  float: left;
+  width: 10%;
+  padding-left: 20px;
+}
+.donors-name{
+  float: left;
+  width: 40%;
+}
+.donors-method{
+  float: left;
+  width: 30%;
+}
+.donors-amount{
+  float: right;
+  padding-right: 20px;
+}
