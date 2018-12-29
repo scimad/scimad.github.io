@@ -2126,6 +2126,18 @@ form label {
 .donate-btn-wrap a{
   color: green;
 }
+.donate-btn-wrap-nav{
+  width: 200px;
+  position: absolute;
+  right: 0;
+
+}
+.donate-btn-wrap-nav a{
+  color: white;
+}
+.donate-btn-col{
+  height: 0;
+}
 .donate-btn{
   border: 1px solid green;
   border-radius: 30px;
@@ -2134,10 +2146,74 @@ form label {
   margin: 0 auto;
   padding: 5px 0;
 }
+.donate-btn-nav{
+  background: #00b328;
+  border: none;
+  font-weight: bold;
+}
 .donate-btn:hover{
   background: green;
   color: white;
 }
+.nav-container{
+  position: relative;
+}
+.namaste-heading{
+  margin-top: 70px;
+}
+@media(max-width: 1082px){
+  .donate-btn-wrap-nav{
+    /*top: 10px;*/
+  }
+}
+@media(max-width: 936px){
+  .donate-btn-wrap-nav{
+    top: 20px;
+  }
+}
+@media(max-width: 766px){
+  .donate-btn-wrap-nav{
+    top: 10px;
+  }
+}
+@media(max-width: 1045px){
+  .namaste-heading{
+    margin-top: 80px;
+  }
+}
+@media(min-width: 768px) and (max-width: 936px){
+  .namaste-heading{
+    margin-top: 116px;
+  }
+}
+@media(max-width: 603px){
+  .donate-btn-wrap-nav{
+    top: 74px;
+    right: 33%;
+  }
+  .namaste-heading{
+    margin-top: 114px;
+  }
+}
+@media(max-width: 429px){
+  .donate-btn-wrap-nav{
+    top: 102px;
+    right: 25%;
+  }
+  .namaste-heading{
+    margin-top: 134px;
+  }
+}
+@media(max-width: 330px){
+  .donate-btn-wrap-nav{
+    top: 134px;
+    right: 17%;
+  }
+  .namaste-heading{
+    margin-top: 165px;
+  }
+}
+
 
 .summary-list-wrap{
   width: 400px;
