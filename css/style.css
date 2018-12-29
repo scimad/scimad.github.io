@@ -15,7 +15,8 @@ body {
   font-weight: 400;
   font-size: 16px;
   line-height: 1.7;
-  color: #000;
+  /*color: #777;*/
+  color: #303030;
   background: #fff;
 }
 
@@ -2194,5 +2195,12 @@ li{
 }
 .donors-amount{
   float: right;
+  padding-right: 20px;
+}
+
+.image-with-text{
+  float: left;
+  height: 400px;
+  width: 400px;
   padding-right: 20px;
 }
