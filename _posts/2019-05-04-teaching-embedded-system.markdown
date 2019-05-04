@@ -7,7 +7,7 @@ categories: work
 
 This summer, I am going to work as a part-time Teaching Assistant in Institute of Engineering, [Thapathali Campus][thapathali-campus]. Thapathali Campus is one of the constituent campus of Institute of Engineering under Tribhuvan University and I just completed my undergraduate from same campus, same program (BEX). I will be teaching `Embedded System - CT655` to BEX-073 fellows. Most of them probably already know me and I am also familiar with most of the faces. I hope to contribute in their journey of undergraduate in Electronics (and Communication) Engineering.
 
-My goal will be to make them curious about embedded systems and go into depth of some of the core technical things rather than just floating around the buzz words of the subject. I will focus in collaborating with students to help them **learn on thier own instead just of going through what is asked in the exams**. I hope the fellow friends to be collaborative.
+My goal will be to make them curious about embedded systems and go into depth of some of the core technical things rather than just floating around the buzz words of the subject. I will focus in collaborating with students to help them **learn on thier own instead of going through just what is asked in the exams**. I hope the fellow friends to be collaborative.
 
 This is the screenshot of my routine:
 ![Individual Routine](/assets/imgs/individual-routine.png)
