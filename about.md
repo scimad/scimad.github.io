@@ -4,12 +4,16 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+Thanks for coming here!
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jglovier" %} /
-[jekyll-new](https://github.com/jglovier/jekyll-new)
+I am Madhav. I work as a TA (part-time) at IOE, [Thapathali Campus][thapathali-campus] and as a ML/CV Engineer at [Ekbana Solutions][ekbana].
 
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+You can contact me via following email addresses according to your purposes:
+
+personal: scimad2.71@gmail.com  
+CV/ML   : madhav.humagain@ekbana.info  
+academic: madhav@tcioe.edu.np  
+
+
+[thapathali-campus]: http://tcioe.edu.np
+[ekbana]: https://ekbana.com
