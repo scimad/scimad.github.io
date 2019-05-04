@@ -20,6 +20,9 @@ I will be using online tools / platforms to make classroom effective. The links 
 
 [**Google Classroom**][google-classroom] - - - [**Attendance**][attendance-doc] - - - [**Evaluation**][evaluation-doc]
 
+<div class="fb-comments" data-href="https://scimad.github.io/work/2019/05/04/teaching-embedded-system.html" data-width="600" data-numposts="5"></div>
+
+
 
 [attendance-doc]: https://docs.google.com
 [evaluation-doc]: https://docs.google.com
