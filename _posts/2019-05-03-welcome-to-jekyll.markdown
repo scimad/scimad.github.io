@@ -21,7 +21,7 @@ print_hi('Tom')
 Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
 
 
-***I thought about deleting this post, but I thought "Why? Why not let someone see how blogs are made in jekyll? And also, why delete a post that's already there?"***
+***I was about to delete this post, but I thought "Why? Why not let someone see how blogs are made in jekyll? And also, why delete a post that's already there?"***
 
 [jekyll-docs]: http://jekyllrb.com/docs/home
 [jekyll-gh]:   https://github.com/jekyll/jekyll
