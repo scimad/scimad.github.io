@@ -14,7 +14,7 @@ personal: scimad2.71@gmail.com
 CV/ML   : madhav.humagain@ekbana.info  
 academic: madhav@tcioe.edu.np  
 
-<div class="fb-comments" data-href="https://scimad.github.io/" data-width="600" data-numposts="5"></div>
+<div class="fb-comments" data-href="https://scimad.github.io/about/" data-width="600" data-numposts="5"></div>
 
 
 [thapathali-campus]: http://tcioe.edu.np
