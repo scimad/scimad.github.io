@@ -17,3 +17,7 @@ github_username:  scimad
 
 # Build settings
 markdown: kramdown
+
+
+plugins:
+  - jekyll-seo-tag
