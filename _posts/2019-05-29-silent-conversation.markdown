@@ -27,7 +27,7 @@ I opened the windows
 to smell the tiny floating droplets,  
 my nostrils and my lungs had been thirsty.  
   
-I told her, "please" show some rain,  
+I told her, "please" show (him) some rain,  
 we have technology for that now,  
 to *almost* send the rain to anyone.  
 The scenes are reproduced,  
