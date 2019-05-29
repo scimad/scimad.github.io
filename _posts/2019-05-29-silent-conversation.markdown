@@ -58,10 +58,10 @@ There's a decade to live in between.
 Death comes every now and then,  
 each time taking something away,  
 just like the rain does.  
-What if someday,I will have nothing left  
+What if someday, I will have nothing left  
 to sacrifice to the god of death?  
 Nothing, other than myself.  
-Would someone love a dead self?  
+Would someone still love a dead self?  
 Would you?  
   
 Why do I love death so much?  
@@ -84,12 +84,12 @@ the day is the soul of the night.
 Maybe death is the soul of life,  
 and life, the soul of death.  
 ...  
-that keeps things in this beautiful motion...  
+the sould that keeps things in this beautiful motion...  
   
 Maybe the day and the night smile at each other in the dusk,  
 or bow down and share some words in the dawn,  
 Is it why the dusk and the dawns are special?  
 Maybe life and death mystically talk in silence.  
-Maybe that's why silence feels magical.  
+Maybe that's why silence is magical.  
   
 <div class="fb-comments" data-href="https://scimad.github.io/work/2019/05/21/silent-conversation.html" data-width="600" data-numposts="5"></div>
