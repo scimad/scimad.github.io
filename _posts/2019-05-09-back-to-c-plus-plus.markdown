@@ -12,7 +12,7 @@ Now as part of an office project in computer vision, I am having to use [OpenCV]
 
 In this post, I want to share my learning and experiences with C++ templates.
 
-#C++ Templates
+# C++ Templates
 C++ templates are meant to create parameterized familities of related functions or classes. This important because as a programmer, we often come up with situations where implementing multiple versions of similar functions and classes are necessary. Consider a stack. A stack needs to be able to add (push) elements to it or pop elements from it. The same is true no matter if the stack is made up of integer or a string or a matrix to store image, or a vector to store a word embedding.
 
 C++ provides the flexibility using *function template* and *class template*. The template are not codes that are actually compiled but the machine code for template function and template class are generated at the time of instantiation. 
