@@ -68,5 +68,3 @@ x=222 and y=321
 ***This blogpost is not yet a complete one. I will write more about my C++ programming experience in other posts.***
 
 [buddhichal]: https://github.com/scimad/buddhichal
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
