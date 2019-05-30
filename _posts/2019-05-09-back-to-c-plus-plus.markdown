@@ -65,12 +65,7 @@ After exchange:
 x=222 and y=321
 {% endhighlight %}
 
-
-
-
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-***This blogpost is not yet a complete one.***
+***This blogpost is not yet a complete one. I will write more about my C++ programming experience in other posts.***
 
 [buddhichal]: https://github.com/scimad/buddhichal
 [jekyll-gh]:   https://github.com/jekyll/jekyll
