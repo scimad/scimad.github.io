@@ -19,5 +19,5 @@ github_username:  scimad
 markdown: kramdown
 
 
-plugins:
+plugins_dir:
   - jekyll-seo-tag
