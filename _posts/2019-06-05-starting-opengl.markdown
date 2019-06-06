@@ -40,13 +40,13 @@ If everything works fine, you will see the following output in the screen (the e
 
 `OpenGL version supported by this platform :3.1 Mesa 18.2.8`
 
-Once the execution of the OpenGL program is verified, we move onto another example using OpenGL. I have used the example from the official opengl.org archive. This post is for educational purpose and no infringement of thier copyright is intended. I have included thier copyright statement in the program. This and other examples are found [here][opengl-exampls]. Here's the C code.
+Once the execution of the OpenGL program is verified, we move onto another example using OpenGL. I have used the example from the official opengl.org archive. This post is for educational purpose and no infringement of thier copyright is intended. I have included thier copyright statement in the program. This and other examples are found [here][opengl-examples]. Here's the C code.
 
 {% highlight c++%}
 {% include attachments/opengl-basic.cpp %}
 {% endhighlight%}
 
-The following image is the output of the program:
+The following image shows the output of the program:
 
 ![Sample Output](/assets/imgs/opengl-basic.png)
 
