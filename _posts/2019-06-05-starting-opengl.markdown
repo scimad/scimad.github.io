@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Simplest OpenGL Program (C++)"
+title:  "Getting Started with OpenGL (C++)"
 date:   2019-06-05 15:28:25 +0545
 categories: work
 ---
@@ -39,3 +39,22 @@ $ ./a.out
 If everything works fine, you will see the following output in the screen (the exact version might be different).
 
 `OpenGL version supported by this platform :3.1 Mesa 18.2.8`
+
+Once the execution of the OpenGL program is verified, we move onto another example using OpenGL. I have used the example from the official opengl.org archive. This post is for educational purpose and no infringement of thier copyright is intended. I have included thier copyright statement in the program. This and other examples are found [here][opengl-exampls]. Here's the C code.
+
+{% highlight c++%}
+{% include attachments/opengl-basic.cpp %}
+{% endhighlight%}
+
+The following image is the output of the program:
+
+![Sample Output](/assets/imgs/opengl-basic.png)
+
+So, this brings us to the *end of the beginning* of OpenGL with C/C++. I hope to cover more on further posts.
+
+----------
+Last Updated: Thursday, 6th June, 2019, 17:50 NPT
+
+<div class="fb-comments" data-href="https://scimad.github.io/work/2019/06/05/starting-opengl.html" data-width="600" data-numposts="5"></div>
+
+[opengl-examples]: https://www.opengl.org/archives/resources/code/samples/glut_examples/examples/examples.html
