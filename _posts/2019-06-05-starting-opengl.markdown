@@ -16,7 +16,7 @@ If you don't already have one, please install it properly.
 
 Once the g++ compiler is ready, you simply need to install OpenGL libraries to your system. Technically, OpenGL is just a system specification for rendering interactive 3D graphics and there's no such think like an OpenGL SDK library. The OpenGL specification describes an abstract API for drawing 2D and 3D graphics. There's a libGL.so that comes with the drivers and OpenGL has many langauage bindings such as WebGL (JavaScript), WGL (C). There are also OpenGL C binding provided by iOS and Java and C bindings provided by Android. 
 
-Mesa is one such open-source implementation of OpenGL API specification. To install Mesa Libraries, I simply gave the following commands in the terminal:
+Mesa is one such open-source implementation of OpenGL API specification. To install Mesa Libraries, simply run the following commands in the terminal:
 {% highlight bash%}
 $ sudo apt-get update
 $ sudo apt-get install freeglut3 freeglut3-dev 
