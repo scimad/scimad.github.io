@@ -27,7 +27,7 @@ $ sudo apt-get install mesa-common-dev
 And that's it. We are ready to go. Write the following code into a C/C++ program (say `test.cpp`).
 
 {% highlight c++%}
-{% include attachments/test_opengl.cpp %}
+{% include attachments/test-opengl.cpp %}
 {% endhighlight%}
 
 Now in terminal run the following command to compile and test if the OpenGL is properly installed and working.
