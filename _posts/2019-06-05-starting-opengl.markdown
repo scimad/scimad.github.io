@@ -37,4 +37,5 @@ $  g++ test.c -lGL -lGLEW -lglut
 $ ./a.out
 {% endhighlight%}
 If everything works fine, you will see the following output in the screen (the exact version might be different).
+
 `OpenGL version supported by this platform :3.1 Mesa 18.2.8`
