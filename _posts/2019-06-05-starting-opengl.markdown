@@ -6,7 +6,7 @@ categories: work
 ---
 In this post I will show you how to write a simple OpenGL code and make it working on a Linux machine. *I believe it's not the recommended way, but until I find it out, I will be using C-style coding to learn OpenGL in C++.*
 
-I have g++ compiler already installed on my Linux machine as part of GNU-GCC.To see if your g++ compiler is installed properly, simply type the following code in the terminal.
+I have g++ compiler already installed on my Linux machine as part of GNU-GCC. To see if your g++ compiler is installed properly, simply type the following code in the terminal.
 
 {% highlight bash%}
 $ g++ -v
