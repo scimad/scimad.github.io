@@ -38,8 +38,3 @@ $ ./a.out
 {% endhighlight%}
 If everything works fine, you will see the following output in the screen (the exact version might be different).
 `OpenGL version supported by this platform :3.1 Mesa 18.2.8`
-
-
-[jekyll-docs]: http://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
