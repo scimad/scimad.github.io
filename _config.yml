@@ -21,3 +21,4 @@ markdown: kramdown
 
 plugins_dir:
   - jekyll-seo-tag
+theme: jekyll-theme-time-machine
