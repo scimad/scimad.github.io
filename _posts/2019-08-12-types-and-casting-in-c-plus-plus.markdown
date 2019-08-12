@@ -12,6 +12,7 @@ The fundamental tpes in C++ are `integer` types, `floating-point` types, and the
 
 Constants in C++ can be divided into `boolean constants`, `numerical constants`, `character constants` and `string constants`. The type is defined by the way the constant is written. Integral constants are normally of type `int`. We can designate the type of constant by adding the letter `L` or `l` (for `long`), or `U` or `u` (for `unsigned`) (Eg. `12L` or `12u` or `12UL`). Floating-point constants are represented as decimals but exponential notations is also permissible. Floating-point constants are of type `double` by default. However we can add `F` or `f` for float, or add `L` or `l` for `long double` type designation.
 
-## Constant Objects
-The const keyworkd is uded to create a "read only" object.
+It is worth noting that the `const` keyworkd is used to create a "read only" object. The `volatile` keyword, which is rarely used, creates variables that can be modified not only by the program but also by other programs and external events. It is also possible to combine these two keywords to create something like `volatile const unsigned tick_count;` which doesn't allow the program to modify the constant but allows external events to modify it.
+
+## Symbolic Constants and Macros
 
