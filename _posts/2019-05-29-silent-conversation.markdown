@@ -41,7 +41,7 @@ and you could hear, and listen.
 Communication is sweet, I faintly remember,  
 maybe I once tasted it.  
   
-Now, only when *some* ragas dance,  
+Now, only when *some ragas* dance,  
 I listen to myself.  
 And I feel heard, understood.  
 Should I feel sorry or thankful?  

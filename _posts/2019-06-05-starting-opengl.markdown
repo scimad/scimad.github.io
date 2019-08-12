@@ -6,7 +6,7 @@ categories: work
 ---
 In this post I will show you how to write a simple OpenGL code and make it working on a Linux machine. *I believe it's not the recommended way, but until I find it out, I will be using C-style coding to learn OpenGL in C++.*
 
-I have g++ compiler already installed on my Linux machine as part of GNU-GCC.To see if your g++ compiler is installed properly, simply type the following code in the terminal.
+I have g++ compiler already installed on my Linux machine as part of GNU-GCC. To see if your g++ compiler is installed properly, simply type the following code in the terminal.
 
 {% highlight bash%}
 $ g++ -v
@@ -14,9 +14,9 @@ $ g++ -v
 
 If you don't already have one, please install it properly.
 
-Once the g++ compiler is ready, you simply need to install OpenGL libraries to your system. Technically, OpenGL is just a system specification for rendering interactive 3D graphics and there's no such think like an OpenGL SDK library. The OpenGL specification describes an abstract API for drawing 2D and 3D graphics. There's a libGL.so that comes with the drivers and OpenGL has many langauage bindings such as WebGL (JavaScript), WGL (C). There are also OpenGL C binding provided by iOS and Java and C bindings provided by Android. 
+Once the g++ compiler is ready, you simply need to install OpenGL libraries to your system. Technically, OpenGL is just a system specification for rendering interactive 3D graphics and there's no such thing like an OpenGL SDK library. The OpenGL specification describes an abstract API for drawing 2D and 3D graphics. There's a `libGL.so` that comes with the drivers and OpenGL has many langauage bindings such as WebGL (JavaScript), WGL (C). There are also OpenGL C binding provided by iOS and Java and C bindings provided by Android. 
 
-Mesa is one such open-source implementation of OpenGL API specification. To install Mesa Libraries, simply run the following commands in the terminal:
+`Mesa` is one such open-source implementation of OpenGL API specification. To install Mesa Libraries, simply run the following commands in the terminal:
 {% highlight bash%}
 $ sudo apt-get update
 $ sudo apt-get install freeglut3 freeglut3-dev 
@@ -33,14 +33,14 @@ And that's it. We are ready to go. Write the following code into a C/C++ program
 Now in terminal run the following command to compile and test if the OpenGL is properly installed and working.
 
 {% highlight bash%}
-$  g++ test.c -lGL -lGLEW -lglut
+$  g++ test.cpp -lGL -lGLEW -lglut
 $ ./a.out
 {% endhighlight%}
 If everything works fine, you will see the following output in the screen (the exact version might be different).
 
 `OpenGL version supported by this platform :3.1 Mesa 18.2.8`
 
-Once the execution of the OpenGL program is verified, we move onto another example using OpenGL. I have used the example from the official opengl.org archive. This post is for educational purpose and no infringement of thier copyright is intended. I have included thier copyright statement in the program. This and other examples are found [here][opengl-examples]. Here's the C code.
+Once the execution of the OpenGL program is verified, we move onto another example using OpenGL. I have used the example from the official opengl.org archive. This post is for educational purpose and no infringement of their copyright is intended. I have included their copyright statement in the program. This and other examples are found [here][opengl-examples]. Here's the C code.
 
 {% highlight c++%}
 {% include attachments/opengl-basic.cpp %}
