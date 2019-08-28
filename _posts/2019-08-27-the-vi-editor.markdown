@@ -10,21 +10,22 @@ I am using NeoVIM; nvim. It is a "hyperextensible Vim-based text editor" as they
 
 So, in this post I want to list down the shortcut keys that I use the most or have found useful, so that I could refer back if I need to someday. The order will mostly be the same as I had learned it in.
 
-**i**       -- Go to insert mode (Remember there are two modes in vi, Command mode and Insert Mode). Puts the cursor before the highlighted character.
-**Esc Key** -- Go to command mode. Clean any *command buffer*. The navigation keys and other commands works only in the command mode.
-**a**       -- Go to insert insert mode. Puts the cursor after the highlighted character.
-**H J K L** -- Beautiful navigation arrows
-**A**       -- Go to insert mode. Puts the cursor at the end of the line.
-**d**       -- Ready for deletion. The next command followed actually decides what to delete. Explained below.
-**dw**      -- Deletes the word. Note that commands are flexible like languages and have subtle differences in vi. Eg. **d5w** means delete five words. More examples below.
+## So the commands:
+**i**       -- Go to insert mode (Remember there are two modes in vi, Command mode and Insert Mode). Puts the cursor before the highlighted character.  
+**Esc Key** -- Go to command mode. Clean any *command buffer*. The navigation keys and other commands works only in the command mode.  
+**a**       -- Go to insert insert mode. Puts the cursor after the highlighted character.  
+**H J K L** -- Beautiful navigation arrows  
+**A**       -- Go to insert mode. Puts the cursor at the end of the line.  
+**d**       -- Ready for deletion. The next command followed actually decides what to delete. Explained below.  
+**dw**      -- Deletes the word. Note that commands are flexible like languages and have subtle differences in vi. Eg. **d5w** means delete five words. More examples below.  
 
 Okay, at this point, I realize, it might have been better if I had categorized the commands / shortcuts into different categories such as navigation, clipboard operations, deleting, editing or things like that but since the way I am going here is exactly the way I learned it, or the way we learn using typical commands, it shouldn't be that bad. So, lets continue further.
 
-**dd**      -- Delete line.
-**b w e**   -- Navigation keys. Go to the beginning of word on left. Go to the beginning of word to the right. Go to the end of word to the right. (You can use this like **dw** command as well, i.e. You can think of it as **db** or **de** commands. But what actually happening is the delete command **d** was waiting for selection to be deleted and **w**, **b**, **e** provide the content for deletion. You can use it along ith numbers as well, as was stated in the **dw** command above.)
-*:q*        -- Quit. (Use *:q!*) for force quit. Also, you might notice what the **:** does. It prompts a new input where. This is used frequently.
-*:w*        -- Save. (Use *:wq*) for save and quit.
-**y**        -- Yank (Copy)
-**x**        -- cut
-**p**        -- paste
+**dd**      -- Delete line.  
+**b w e**   -- Navigation keys. Go to the beginning of word on left. Go to the beginning of word to the right. Go to the end of word to the right. (You can use this like **dw** command as well, i.e. You can think of it as **db** or **de** commands. But what actually happening is the delete command **d** was waiting for selection to be deleted and **w**, **b**, **e** provide the content for deletion. You can use it along ith numbers as well, as was stated in the **dw** command above.)  
+*:q*        -- Quit. (Use *:q!*) for force quit. Also, you might notice what the **:** does. It prompts a new input where. This is used frequently.  
+*:w*        -- Save. (Use *:wq*) for save and quit.  
+**y**        -- Yank (Copy)  
+**x**        -- Delete highlighted characte (Actually puts that into clipboard, so it's like, 'cut' one letter)   
+**p**        -- Put (Paste)  
 
