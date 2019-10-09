@@ -15,4 +15,19 @@ Constants in C++ can be divided into `boolean constants`, `numerical constants`,
 It is worth noting that the `const` keyworkd is used to create a "read only" object. The `volatile` keyword, which is rarely used, creates variables that can be modified not only by the program but also by other programs and external events. It is also possible to combine these two keywords to create something like `volatile const unsigned tick_count;` which doesn't allow the program to modify the constant but allows external events to modify it.
 
 ## Symbolic Constants and Macros
+A #define preprocessor directive can be used to define a substitute piece of text wherever it appears in source files. There are two forms of #define. The first defines a simple text substitution and the second is a more complex 'macro' substitution. All macros and symbolic constants are conventionally given capitalized names separated by underscore if containing multiple word. This also helps to separate macro calls from function calls.
+
+### Symbolic Constants
+#define PI 3.14
+
+
+### Macros
+#define MAX(a,b) ((a)>(b) ? (a) : (b))
+
+It is obvious from the later definition how it can be used in similar fashion to a function.
+
+It is also important here to note that the use of macro can get tricky sometimes as it doesn't replace the value of a function by executing but replaces the macro usage with a a bunch of code, which sometimes might create a problematic situation like below.
+
+a = MAX(MAX(2,3), 4)
+
 
