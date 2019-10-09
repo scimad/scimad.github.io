@@ -27,5 +27,15 @@ Okay, at this point, I realize, it might have been better if I had categorized t
 *:w*        -- Save. (Use *:wq*) for save and quit.  
 **y**        -- Yank (Copy)  
 **x**        -- Delete highlighted characte (Actually puts that into clipboard, so it's like, 'cut' one letter)   
-**p**        -- Put (Paste)  
+**p**        -- Put (Paste)
+
+## Haven't I written about the search key?
+**/**        -- Searches for text. Regex can be used (which I haven't yet)
+
+## So that is the Vim philosophy they are talking about!
+About a month ago, I learned something really interesting and really cool about Vim. It's about actually using Vim not as an editor that has many different commands that are; say; to be remembered and all that. I learned Vim is actually about using it as a language to talk to the editor, which would make editing like talking to Vim to do  task. And I also learned the navigation options like * and # which acts like searching but most importantly, I learned about the "repeatability" philosophy. I learned how the dot (.) can be used to repeat a set of commands and how one should try to use commands in the way that could be used repeatedly. 
+
+Also, changing innerword **ciw** (and related commands such as **ci)**) made my editing more easier and at the same time more elegant.
+
+
 
