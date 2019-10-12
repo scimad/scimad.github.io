@@ -6,7 +6,7 @@ categories: math fun
 ---
 <script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
 
-**Note: If your browser is not displaying the relevant equations in this page, please enable javascript and enable "Load unsafe scripts"s**
+**Note: If your browser is not displaying the relevant equations in this page, please enable javascript and enable "Load unsafe scripts"**
 
 I was once thinking about how polynomials can be thought of infinite dimensional vectorspace with the basis vectors being different different powers of x i.e. $$ x^0, x^1, x^2, ... $$. And then I thought about the vector notation of a polynomial.
 
