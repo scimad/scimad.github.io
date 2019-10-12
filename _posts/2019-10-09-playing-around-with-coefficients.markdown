@@ -4,7 +4,9 @@ title:  "Playing around with coefficients"
 date:   2019-10-09 17:51:00 +054
 categories: math fun
 ---
-<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+<script type="text/javascript" async
+  src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-MML-AM_CHTML">
+</script>
 
 **Note: If your browser is not displaying the relevant equations in this page, please enable javascript and enable "Load unsafe scripts"**
 
