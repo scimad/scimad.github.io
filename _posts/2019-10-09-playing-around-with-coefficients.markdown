@@ -8,8 +8,6 @@ categories: math fun
   src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-MML-AM_CHTML">
 </script>
 
-**Note: If your browser is not displaying the relevant equations in this page, please enable javascript and enable "Load unsafe scripts"**
-
 I was once thinking about how polynomials can be thought of infinite dimensional vectorspace with the basis vectors being different different powers of x i.e. $$ x^0, x^1, x^2, ... $$. And then I thought about the vector notation of a polynomial.
 
 Say a polynomial $$ f(x) =  3x^2 + 2x - 7$$ be a vector of 3-dimensional vectorspace with basis vectors $$ x^0, x^1, x^2 $$ which in the vector notation is written as
