@@ -21,7 +21,7 @@ $$
   \right)
 $$
 
-So, I started to think how can one *extract* the coefficients of a polynomial without any manual operation. I felt like getting back to calculator programming.
+So, I started to think how can one *extract* the coefficients of a polynomial without any manual operation (reminded me of calculator programming).
 
 To reiterate the problem, given a polynomial of a finite (known) degree, what could be a performed that yields each cofficient of the polynomial? So if $$ f(x) = ax^2 + bx + c $$ is a polynomial, I want 3 formula or methods ($$ A(f(x)), B(f(x)) $$  and $$ C(f(x)) $$) or a single formula with a parameter, that yields $$a, b $$ and $$ c $$.
 
