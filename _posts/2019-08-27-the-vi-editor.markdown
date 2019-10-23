@@ -39,5 +39,5 @@ Also, changing innerword **ciw** (and related commands such as **ci)**) made my 
 
 
 
-<div class="fb-comments" data-href="https://scimad.github.io/work/2019/05/04/teaching-embedded-system.html" data-width="600" data-numposts="5"></div>
+<div class="fb-comments" data-href="https://scimad.github.io/programming/editor/2019/08/27/the-vi-editor.html" data-width="600" data-numposts="5"></div>
 
