@@ -17,7 +17,7 @@ So, in this post I want to list down the shortcut keys that I use the most or ha
 **H J K L** -- Beautiful navigation arrows  
 **A**       -- Go to insert mode. Puts the cursor at the end of the line.  
 **d**       -- Ready for deletion. The next command followed actually decides what to delete. Explained below.  
-**dw**      -- Deletes the word. Note that commands are flexible like languages and have subtle differences in vi. Eg. **d5w** means delete five words. More examples below.  
+**dw**      -- Deletes the word (characters after current cursor position). Note that commands are flexible like languages and have subtle differences in vi. Eg. **d5w** means delete five words. More examples below.  
 
 Okay, at this point, I realize, it might have been better if I had categorized the commands / shortcuts into different categories such as navigation, clipboard operations, deleting, editing or things like that but since the way I am going here is exactly the way I learned it, or the way we learn using typical commands, it shouldn't be that bad. So, lets continue further.
 
@@ -26,7 +26,7 @@ Okay, at this point, I realize, it might have been better if I had categorized t
 *:q*        -- Quit. (Use *:q!*) for force quit. Also, you might notice what the **:** does. It prompts a new input where. This is used frequently.  
 *:w*        -- Save. (Use *:wq*) for save and quit.  
 **y**        -- Yank (Copy)  
-**x**        -- Delete highlighted characte (Actually puts that into clipboard, so it's like, 'cut' one letter)   
+**x**        -- Delete highlighted character (Actually puts that into clipboard, so it's like, 'cut' one letter)   
 **p**        -- Put (Paste)
 
 ## Haven't I written about the search key?
