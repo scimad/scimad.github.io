@@ -74,5 +74,3 @@ $$a=\frac{f''(0)}{2!}$$
 
 So, finally I came to more elegant looking stuffs which was already there in my knowledge but had rusted for a while. Overall, I felt good and it was like trying to run an old engine again and repairing it.
 
-
-<div class="fb-comments" data-href="https://scimad.github.io/math/fun/2019/10/09/playing-around-with-coefficients.html" data-width="600" data-numposts="5"></div>

@@ -55,6 +55,4 @@ So, this brings us to the *end of the beginning* of OpenGL with C/C++. I hope to
 ----------
 Last Updated: Thursday, 6th June, 2019, 17:50 NPT
 
-<div class="fb-comments" data-href="https://scimad.github.io/work/2019/06/05/starting-opengl.html" data-width="600" data-numposts="5"></div>
-
 [opengl-examples]: https://www.opengl.org/archives/resources/code/samples/glut_examples/examples/examples.html

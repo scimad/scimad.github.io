@@ -91,5 +91,3 @@ or bow down and share some words in the dawn,
 Is it why the dusk and the dawns are special?  
 Maybe life and death mystically talk in silence.  
 Maybe that's why silence is magical.  
-  
-<div class="fb-comments" data-href="https://scimad.github.io/work/2019/05/21/silent-conversation.html" data-width="600" data-numposts="5"></div>

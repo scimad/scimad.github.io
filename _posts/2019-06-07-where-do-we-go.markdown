@@ -41,4 +41,3 @@ Who comes back and what moves on?
 
 ----------
 Last Updated: Friday, June 7th, 2019, 01:53
-<div class="fb-comments" data-href="https://scimad.github.io/life/2019/06/07/where-do-we-go.html" data-width="600" data-numposts="5"></div>

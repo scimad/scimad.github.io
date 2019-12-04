@@ -36,7 +36,5 @@ The first one is using ESP-01 as a slave of a microcontroller. The ESP-01 module
 The first way is using it as an independent SoC (System on a Chip) that doesn't need another microcontroller to manipulate it as is usually done with an Arduino in case of other similar modules. The ESP-01 module when provided with appropriate voltage input (VCC 3.3V) and appropriate connection, is ready for serial communication, just like that! We can then send [AT-commands][AT-commands] to the ESP-01 and receive the result back using RX-TX pins of the ESP-01 module.
 
 
-<div class="fb-comments" data-href="https://scimad.github.io/work/2019/05/21/the-inertia-of-smile.html" data-width="600" data-numposts="5"></div>
-
 [1]: https://www.espressif.com/en/products/hardware/esp8266ex/overview
 [AT-commands]: https://en.wikipedia.org/wiki/Hayes_command_set#GSM
