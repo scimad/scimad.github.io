@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Playing around with coefficients"
-date:   2019-10-09 17:51:00 +054
+date:   2019-10-09 17:51:00 +0545
 categories: math fun
 ---
 <script type="text/javascript" async
