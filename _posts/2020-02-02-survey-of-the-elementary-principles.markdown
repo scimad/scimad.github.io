@@ -20,7 +20,7 @@ categories: physics classical
 
 $$
 \begin{equation}
-F = \frac{d\textbf{p}}{dt} = \dot{\textbf{p}}
+\textbf{F} = \frac{d\textbf{p}}{dt} = \dot{\textbf{p}}
 \end{equation}
 $$
 
@@ -28,9 +28,48 @@ Or,
 
 $$
 \begin{equation}
-F = \frac{d}{dt} \left(m\textbf{v}\right)
+\textbf{F} = \frac{d}{dt} \left(m\textbf{v}\right)
 \end{equation}
 $$
+
+# Definition of angular momentum
+
+The angular momentum of the particle about point *O*, denoted by **L**, is defined as
+
+$$
+\begin{equation}
+\textbf{L} = \textbf{r} \times {\textbf{p}}
+\end{equation}
+$$
+
+# Definition of Moment of force
+
+The moment of force or torque about *O*, denoted by **N**, is defined as
+
+$$
+\begin{equation}
+\textbf{N} = \textbf{r} \times {\textbf{F}}
+\end{equation}
+$$
+
+Taking the corss product with **r** with the equation of **F**, we can show that
+
+$$
+\begin{equation}
+\textbf{N} = \dot{\textbf{L}}
+\end{equation}
+$$
+
+where, both **L** and **N** depend on the point *O* about which the moments are taken.
+
+The conservation theorem for linear and angular momentum of a particle follows from respective equations above.
+
+
+**TODO: Add something about Energy COnservation Theorem for a particle**
+
+
+
+
 
 ----------
 Last Updated: Thursday, 2nd Jan, 2020, 23:13 NPT
