@@ -22,4 +22,4 @@ categories: life reads
 ![Zen](/assets/imgs/book-covers/zen.jpg)
 
 ----------
-Last Updated: Thursday, Jan 10, 2020, 01:47
+Last Updated: Thursday, Jan 10, 2020, 01:47 (+0545)
