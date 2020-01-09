@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Watching The Listening"
-date:   2020-01-02 23:21:00 +0545
+date:   2020-01-09 23:21:00 +0545
 categories: life journal
 ---
 # Today
