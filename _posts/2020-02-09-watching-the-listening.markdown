@@ -2,12 +2,8 @@
 layout: post
 title:  "Watching The Listening"
 date:   2020-01-02 23:21:00 +0545
-categories: physics classical
+categories: life journal
 ---
-<script type="text/javascript" async
-  src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-MML-AM_CHTML">
-</script>
-
 # Today
 
 I was seated, they said something and I listened to it. It was a beautiful scene to watch and a beautiful happening. I know for sure that it was a beautiful scene to watch and someone was enjoying the scene. Someone that felt like me but was completely different from whom they were referring all that words to. That words came direct to my ears, my nerves my mind and I don't know where it went but it didn't remain attached there. I watched it come and I watched it go. It had rarely been like that. Someone watched it come and watched it go. A glue that used to tie what they said to whom they said didn't exist for the moment.
