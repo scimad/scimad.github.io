@@ -52,7 +52,7 @@ $$
 \end{equation}
 $$
 
-Taking the corss product with **r** with the equation of **F**, we can show that
+Taking the cross product with **r** the equation of **F**, we can show that
 
 $$
 \begin{equation}
