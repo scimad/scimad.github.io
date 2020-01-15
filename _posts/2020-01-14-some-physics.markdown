@@ -8,7 +8,7 @@ categories: physics
   src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-MML-AM_CHTML">
 </script>
 
-With a clear confusion on why I want to study what I want to study for my academic journey ahead, I started looking at The Feynman Lectures on Physics (https://www.feynmanlectures.caltech.edu/I_15.html) as an inspiration for what I am about to explain. Since by now I have done some computer vision stuffs (to a degree that puts me not unrealistically far from writing some decent code on computer vision or some sort of research work (that would be a benchmark for satisfaction from the couple of years at job)) and I really find myself eligible to pursue my further education on Computer Vision if I really want to, I thought about looking into some other fields that I am really interested in, but with a clear confusion as I already said.
+With a clear confusion on why I want to study what I want to study for my academic journey ahead, I started looking at [*The Feynman Lectures on Physics*](https://www.feynmanlectures.caltech.edu/I_15.html) as an inspiration for what I am about to explain. Since by now I have done some computer vision stuffs (to a degree that puts me not unrealistically far from writing some decent code on computer vision or some sort of research work (that would be a benchmark for satisfaction from the couple of years at job)) and I really find myself eligible to pursue my further education on Computer Vision if I really want to, I thought about looking into some other fields that I am really interested in, but with a clear confusion as I already said.
 
 When I started studying physics, the reason was to understand more about nature. That was my only conscious goal. And growing up, that goal fine tuned itself; probably; to a difficult one, that is , to understand the true nature of reality. The method of scientific enquiry never promises that physics is the study of true nature of reality, but rather a process of finetuning that understanding by observation, modeling and a way to validate the understanding. I believe that many of physics scholars might even aim to fully understand nature through physics, though that's not the precise domain or method of physics.
 
@@ -29,7 +29,7 @@ So, with that clear kind of confusion, I started looking at [*The Feynman Lectur
 
 After reading a coupe of paragraphs, I found **Maxwell's Equations** there. So, that was it, I decided to go for Maxwell's equation. This was / is something I have an approximate understanding of. But I want to refine it now. And then, I will come back to special relativity.
 
-So, I found [this](https://pdfs.semanticscholar.org/b86a/2012bc986dd36e341e9ccfd7b13681235623.pdf) decent guide on Maxwell's equation. The title of the guide is [**A Student’s Guide to Maxwell’s Equations**](https://pdfs.semanticscholar.org/b86a/2012bc986dd36e341e9ccfd7b13681235623.pdf) and I completed the first chapter, which is the Gauss's law for electric field. Will go with the problem set tomorrow.
+So, I found [this](https://pdfs.semanticscholar.org/b86a/2012bc986dd36e341e9ccfd7b13681235623.pdf) decent guide on Maxwell's equation. The title of the guide is [**A Student’s Guide to Maxwell’s Equations**](https://pdfs.semanticscholar.org/b86a/2012bc986dd36e341e9ccfd7b13681235623.pdf) and I completed the first chapter, which is on the Gauss's law for electric field. Will go with the problem set tomorrow.
 
 Equations and problems to follow.
 
