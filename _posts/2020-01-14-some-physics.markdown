@@ -29,7 +29,7 @@ So, with that clear kind of confusion, I started looking at [*The Feynman Lectur
 
 After reading a coupe of paragraphs, I found **Maxwell's Equations** there. So, that was it, I decided to go for Maxwell's equation. This was / is something I have an approximate understanding of. But I want to refine it now. And then, I will come back to special relativity.
 
-So, I found [this](https://pdfs.semanticscholar.org/b86a/2012bc986dd36e341e9ccfd7b13681235623.pdf) decent guide on Maxwell's equation. The title of the guide is [**A Student’s Guide to Maxwell’s Equations**](https://pdfs.semanticscholar.org/b86a/2012bc986dd36e341e9ccfd7b13681235623.pdf) and I completed the first chapter, which is the Gauss's law for electric field. Will go with the problem set tomorrow.
+So, I found [this](https://pdfs.semanticscholar.org/b86a/2012bc986dd36e341e9ccfd7b13681235623.pdf) decent guide on Maxwell's equation. The title of the guide is [**A Student’s Guide to Maxwell’s Equations**](https://pdfs.semanticscholar.org/b86a/2012bc986dd36e341e9ccfd7b13681235623.pdf) and I completed the first chapter, which is on the Gauss's law for electric field. Will go with the problem set tomorrow.
 
 Equations and problems to follow.
 
