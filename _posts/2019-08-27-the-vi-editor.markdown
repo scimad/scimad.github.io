@@ -32,6 +32,19 @@ Okay, at this point, I realize, it might have been better if I had categorized t
 ## Haven't I written about the search key?
 **/**        -- Searches for text. Regex can be used (which I haven't yet)
 
+## Can you function without line numbers?
+Since we are dabbling in vim and its wonders already, line numbers in a code is something I can't miss out. It is useless to mention (yet I am mentioning) that without visible line numbers for reference, one cannot use the command *:<line_number>*, efficiently. This particular command led me to other commands.
+
+**:set number**           -- set absolute line numbers in your code, text etc. Short version is **:set nu**.
+**:set relativenumber**   --This is the coolest one for sure. It will set the line your cursor is in as 0 and the line above and below as 1,2,3 and so on. Short version is **:set rnu**
+
+Now lets undo these deeds.
+
+**:set nonumber**         -- unset the line numbers set before. Short version is **:set nonu**.
+**:set norelativenumber** -- unset relative line numbers set before. Short version is **:set nornu**.
+Oooooor
+just use them as **:set nu!**, to set and unset with single command.
+
 ## So that is the Vim philosophy they are talking about!
 About a month ago, I learned something really interesting and really cool about Vim. It's about actually using Vim not as an editor that has many different commands that are; say; to be remembered and all that. I learned Vim is actually about using it as a language to talk to the editor, which would make editing like talking to Vim to do  task. And I also learned the navigation options like * and # which acts like searching but most importantly, I learned about the "repeatability" philosophy. I learned how the dot (.) can be used to repeat a set of commands and how one should try to use commands in the way that could be used repeatedly. 
 
