@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Gauss's law for electric field"
+title:  "Some Physics"
 date:   2020-01-15 01:25:20 +0545
 categories: physics
 ---
