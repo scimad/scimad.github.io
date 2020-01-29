@@ -83,10 +83,8 @@ which represents an wave equation, whose standard form is:
 \nabla^2 \vec{\psi} = \frac{1}{v^2} \frac{\partial^2 \vec{\psi}}{\partial t^2}
 \end{equation}
 
-So, the velocity of the wave comes out to be:
-\begin{equation}
-v = \frac{1}{\sqrt{\mu_0 \epsilon_0}} = 3 \times 10^8 m/s (approx.)
-\end{equation}
+So, the velocity of the wave is:
+$$v = \frac{1}{\sqrt{\mu_0 \epsilon_0}} = 3 \times 10^8 m/s (approx.)$$
 
 ----------
 Last Updated: Wednesday, 29 Jan, 2020, 23:10 NPT  
