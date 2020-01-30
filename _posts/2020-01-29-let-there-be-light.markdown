@@ -91,6 +91,14 @@ which represents an wave equation, whose standard form is:
 So, the velocity of the wave is:
 $$v = \frac{1}{\sqrt{\mu_0 \epsilon_0}} = 3 \times 10^8 m/s (approx.)$$
 
+# So the point is:
+* Electric and magnetic fields aren't entirely different things but manifestation of same thing. (?? Deep!!)
+* The change in electric / magnetic field travels in space as a wave (known as electromagnetic wave).
+* The wave has a velocity of $3\times10^8 m/s$ in vacuum.
+* My experimental measurement, it is confirmed that light (which is also electromagnetic wave) travels at a speed of $3\times10^8 m/s$ in vacuum.
+* All radio-tv signals, wireless telecommunication signals, wifi signals etc. are electromagnetic field and are produced in accordance with the above laws!
+* From engineering perspective, this is probably the most important equation for late 20th and early 21st century.
+
 ----------
-Last Updated: Wednesday, 30 Jan, 2020, 11:40 NPT  
+Last Updated: Wednesday, 30 Jan, 2020, 11:54 NPT  
 Author: Madhav Humagain (scimad)
