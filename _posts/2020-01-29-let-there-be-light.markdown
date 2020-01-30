@@ -32,7 +32,7 @@ The equation above (**Gauss's law for electric field**) tells that the electric 
 \begin{equation}\label{eqn:2}
 \nabla \times \vec{E} = - \frac{\partial \vec{B}}{\partial t}
 \end{equation}
-Equation (\ref{eqn:2}) (**Faraday's (+Lenz's) law**) says that if you change the magnetic field (let's say, by moving a magnet), then it produces a electric filed.
+Equation (\ref{eqn:2}) (**Faraday's (+Lenz's) law**) says that if you change the magnetic field (let's say, by moving a magnet), then it produces an electric filed.
 
 \begin{equation}\label{eqn:3}
 \nabla.\vec{B} = 0
