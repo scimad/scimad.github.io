@@ -32,7 +32,7 @@ The equation above tells that the electric field at any point is directly propor
 \begin{equation}
 \nabla \times \vec{E} = - \frac{\partial \vec{B}}{\partial t}
 \end{equation}
-It says that if change the magnetic field (let's say by moving a magnet), then it produces a electric filed.
+It says that if you change the magnetic field (let's say by moving a magnet), then it produces a electric filed.
 
 \begin{equation}
 \nabla.\vec{B} = 0
