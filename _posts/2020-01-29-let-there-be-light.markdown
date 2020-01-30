@@ -72,7 +72,7 @@ Substituting equation (\ref{eqn:4}) in above expression, we get,
 
 $$\frac{\partial }{\partial t} \left( \mu_0 \left( \vec{J} + \epsilon_0 \frac{\partial \vec{E}}{\partial t} \right) \right) = \nabla^2 \vec{E}$$
 
-Again, in vacuum where $\vec{J}$ (current density) is zero.
+Again, in vacuum $\vec{J}$ (current density) is zero.
 
 So,
 
