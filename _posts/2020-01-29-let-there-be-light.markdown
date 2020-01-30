@@ -21,23 +21,28 @@ categories: physics classical
 
 ## Did god say "Let there be light!" using these equations?
 
-# Maxwell's equations:
+# Maxwell's equations (and their intuitive meaning):
 
 \begin{equation}\label{eqn:1}
 \nabla . \vec{E} = \frac{\rho}{\epsilon_0}
 \end{equation}
+The equation above tells that the electric field at any point is directly proportional to the free charge nearby.
+
 
 \begin{equation}
 \nabla \times \vec{E} = - \frac{\partial \vec{B}}{\partial t}
 \end{equation}
+It says that if change the magnetic field (let's say by moving a magnet), then it produces a electric filed.
 
 \begin{equation}
 \nabla.\vec{B} = 0
 \end{equation}
+It says that magnetic fields don't have any origin, but loop into itself. This is not the case with electric field as electric fields can originate from point charges.
 
 \begin{equation}\label{eqn:4}
 \nabla \times \vec{B} = \mu_0 \left( \vec{J} + \epsilon_0 \frac{\partial \vec{E}}{\partial t} \right)
 \end{equation}
+It says that if you have a current carrying wire or a changing electric field, then it produces a magnetic field around the wire.
 
 # Also, an identity from vector calculus, 
 
