@@ -29,7 +29,11 @@ git cherry-pick 5a412f
 
 And it actually worked! So, basically, it cherry-picked the changes made in the the second commit only and placed that cherry on the top of the master branch, like a cherry is topped on a cake.
 
-(Note: The commit hash of commit2 is a fake one.)
+Also, I think this deserves a meme!
+
+![Cherry Pick](/assets/imgs/meme/cherry-pick.jpg)
+
+*(Note: The commit hash of `commit2` is a fake one.)*
 
 ----------
 Last Updated: Tuesday, 4 Feb, 2020, 15:04 NPT  
