@@ -20,7 +20,7 @@ I checked out to `fix-config` and made two commits `commit1 (dbe52d1be376f453d6c
 
 **Let’s pick the cherry only (and not it’s leaves)**
 
-So, I had heard this command `git cherry-pick` but had never used it. I thought it might help. With some prayer that every programmers do before messing up with `git` commands I did the following:
+So, I had heard of this command `git cherry-pick` but had never used it. (Waiting for the right time, and that safe ground for doing so.) I thought it might help, it might be the day. With some prayer that every programmers do before messing up with `git` commands I did the following:
 
 ```
 git checkout master
