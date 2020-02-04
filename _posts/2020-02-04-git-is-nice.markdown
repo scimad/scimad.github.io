@@ -4,7 +4,7 @@ title:  "Git is nice"
 date:   2020-02-04 14:19:00 +0545
 categories: programming tools 
 ---
-So, this is about stuff in git that I have liked or learned or may need later in future. Git is a huge thing, a huge thing, that many beginners underestimate. Even many of us who like to call ourselves programmers actually don’t like going using it nicely. But `git` is nice. Git to me isn’t something about coding. Somehow to me, it is almost like a life management tool and git usage is a metric of my overall satisfaction of life.
+So, this is about stuff in git that I have liked or learned or may need later in future. Git is a huge thing, a huge thing, that many beginners underestimate. Even many of us who like to call ourselves programmers actually don’t like going deep and using its best. But `git` is nice, really!. Git to me isn’t something about just coding. Somehow to me, it is almost like a life management tool and git usage is a metric of my overall satisfaction of life.
 
 This post will be an incremental post where I will add things as I learn, like the post on [nvim editor](https://scimad.github.io/programming/editor/2019/08/27/the-vi-editor.html).
 
