@@ -40,7 +40,7 @@ Or, $cos(\frac{\pi}{4})sin(x) - sin(\frac{\pi}{4})cos(x) = 0$
 
 Or, $sin(x - \frac{\pi}{4}) = 0$
 
-If $sin(\theta) = 0, then \theta = \pm n \pi$, where $n=0, 1, 2, 3$
+If $sin(\theta) = 0$, then $\theta = \pm n \pi$, where $n=0, 1, 2, 3$
 
 So, in our case $x - \frac{\pi}{4} = 0$ and $x - \frac{\pi}{4} = 1$ gives relevant solution.
 
