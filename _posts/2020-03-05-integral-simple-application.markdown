@@ -26,7 +26,7 @@ There was this post from one of my junior fellow from high school who is enthusi
 
 I just wanted to _unrust_ my mind. And hence this:
 
-First, the point where two curves $y = sin(x)$ and $y = sin(x)$ meet at those points where there $y$ value are same for same $x$. To find that,
+First, the point where two curves $y = sin(x)$ and $y = sin(x)$ meet are those points where their $y$ values are same. To find that,
 
 $sin(x) = cos(x)$,
 
