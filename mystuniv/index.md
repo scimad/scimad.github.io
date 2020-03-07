@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Mysterious Universe
-<!-- permalink: /mystuniv/ -->
+permalink: /mystuniv/
 ---
 
 # Coming soon!
