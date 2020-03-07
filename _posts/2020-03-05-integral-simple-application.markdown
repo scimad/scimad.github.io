@@ -57,6 +57,7 @@ Or, $A = [-(-\frac{1}{\sqrt{2}}) - (-\frac{1}{\sqrt{2}})] - [- \frac{1}{\sqrt{2}
 $\therefore A = \frac{4}{\sqrt(2)} = 2.828 $ in square units.
 
 So, that's it! That's the area!
+
 ----------
 Last Updated: Thursday, 5 Mar, 2020, 21:41 NPT  
 Author: Madhav Humagain (scimad)
