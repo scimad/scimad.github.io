@@ -56,3 +56,7 @@ So, this brings us to the *end of the beginning* of OpenGL with C/C++. I hope to
 Last Updated: Thursday, 6th June, 2019, 17:50 NPT
 
 [opengl-examples]: https://www.opengl.org/archives/resources/code/samples/glut_examples/examples/examples.html
+
+----------
+Last Updated: Saturday, 7 Mar, 2020 20:41:32 NPT  
+Author: Madhav Humagain (scimad)

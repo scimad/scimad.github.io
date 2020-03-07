@@ -49,3 +49,8 @@ just use them as **:set nu!**, to set and unset with single command.
 About a month ago, I learned something really interesting and really cool about Vim. It's about actually using Vim not as an editor that has many different commands that are; say; to be remembered and all that. I learned Vim is actually about using it as a language to talk to the editor, which would make editing like talking to Vim to do  task. And I also learned the navigation options like * and # which acts like searching but most importantly, I learned about the "repeatability" philosophy. I learned how the dot (.) can be used to repeat a set of commands and how one should try to use commands in the way that could be used repeatedly. 
 
 Also, changing innerword **ciw** (and related commands such as **ci)**) made my editing more easier and at the same time more elegant.
+
+
+----------
+Last Updated: Thu Jan 23 14:16:48 2020 +0545  
+Author: Madhav Humagain (scimad) & Sharmila Upadhyaya

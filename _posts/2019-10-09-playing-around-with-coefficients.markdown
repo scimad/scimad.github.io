@@ -74,3 +74,7 @@ $$a=\frac{f''(0)}{2!}$$
 
 So, finally I came to more elegant looking stuffs which was already there in my knowledge but had rusted for a while. Overall, I felt good and it was like trying to run an old engine again and repairing it.
 
+
+----------
+Last Updated: Tuesday, 9 Oct, 2019  
+Author: Madhav Humagain (scimad)
