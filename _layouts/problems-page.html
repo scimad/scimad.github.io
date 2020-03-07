@@ -17,6 +17,22 @@ layout: default
 
 <ul class="post-list">
 
+  {% for post in site.posts %}
+    {% if post.categories contains '2020-challenge' %}
+    <li>
+      <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+
+      <h2>
+        <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+      </h2>
+      {% for problem in post.problems%}
+      <ul>
+        {{problem}}
+      </ul>
+      {% endfor %}
+    </li>
+    {% endif %}
+  {% endfor %}
 </ul>
 
 <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
