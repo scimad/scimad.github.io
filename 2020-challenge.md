@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: problems-page
 title: 2020 Challenge - Solving 5 Problems a week
 link-title: 2020 Challenge
 permalink: /2020-challenge/
