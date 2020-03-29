@@ -1,24 +1,10 @@
 ---
 layout: post
 title:  "Using integral calculus!"
+needs-mathjax: true
 date:   2020-03-05 21:04:56 +0545
 categories: math fun
 ---
-<script type="text/javascript" async
-  src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-MML-AM_CHTML">
-</script>
-
-<script type="text/x-mathjax-config">
-    MathJax.Hub.Config({
-        TeX: { equationNumbers: { autoNumber: "AMS" } },
-        displayAlign: "center",
-        tex2jax: {
-            inlineMath: [ ['$','$'], ["\\(","\\)"] ],
-            processEscapes: true
-        }
-    });
-</script>
-
 ## Find the area between the curves $y = sin (x)$ and $y = cos(x)$
 
 There was this post from one of my junior fellow from high school who is enthusiastic on mathematics, physics and electronics. Here's his post:
