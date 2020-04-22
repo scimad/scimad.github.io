@@ -98,7 +98,7 @@ If we could find a difference between two systems (pendulum systems or any other
 
 So, if we "assume" or find that the inertial mass and the gravitational mass are equal and we are in a closed elevator doing the experiment on the surface of earth in a uniform gravitational field downwards, we can then equally say that we are accelerating upwards in a gravity free space and all the laws of physics are same in both of the systems.
 
-# The Principle of Equivalence
+# The Equivalence Principle
 The laws of physics in a uniformly accelerating systems are identical to those in an inertial system provided that we introduce a fictitious force on each particle, $F_{fict}=-mA$. $F_{fict}$ is indistinguishable from the force due to a uniform gravitational field $g = -A$; both the gravitational force and the fictitious force are constant forces proportional to the mass. In a local gravitational field $g$, a free particle of mass $m$ experiences a force $F=mg$. Consider the same particle in a noninertial system uniformly accelerating at rate $A=-G$, with no gravitational field nor any other interaction. The apparent force is $F_{fict}=-mA=mg$, as before. There is no way to distinguish physically between these two situations.
 
 #### P.S.
