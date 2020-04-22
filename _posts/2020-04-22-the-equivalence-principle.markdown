@@ -42,7 +42,7 @@ This is a famous high school experiment in which we measure the time period of t
 
 (We also call $g$ to be the accelareation due to gravity assuming the masses to be same in the equation $m_Gg = m_ia$. If those masses were not (or are not) same, then the magnitude of $g$ would be numerically slightly different from the measured acceleration of a freely falling body.)
 
-### A pendulum-system accelerating in free space
+### A pendulum-system accelerating in gravity free space
 Imagine the same pendulum system is then taken to free space (with no gravity or any other external force). And then it is accelerated in the direction approximately same as the direction of the stratight string holding the pivot and the bob.
 
 An oscillatory motion is observed and the equation of motion can be found as following:
