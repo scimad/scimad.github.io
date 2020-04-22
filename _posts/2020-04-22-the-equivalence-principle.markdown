@@ -106,5 +106,4 @@ This page reflects solely my personal understanding on the matter and study was 
 
 ---
 Last Updated: Wednesday, 22nd Apr, 2020, 09:26 NPT
-20, 15:04 NPT  
 Author: Madhav Humagain (scimad)
