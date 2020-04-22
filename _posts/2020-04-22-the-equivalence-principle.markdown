@@ -47,6 +47,8 @@ Imagine the same pendulum system is then taken to free space (with no gravity or
 
 An oscillatory motion is observed and the equation of motion can be found as following:
 
+![Pendulum Accelerating Upward](/assets/imgs/physics/pendulum-fig1.svg)
+
 Figure 1 shows the physical diagram and figure 2 shows force resolution diagram.
 
 The equation of motion in two dimension for the observer at rest is:
@@ -80,7 +82,7 @@ $l\frac{d^2\theta}{dt^2} = -A\theta$
 This gives the time period of the pendulum as:
 $T_i = 2\pi\sqrt\frac{l}{A}$   ......(3)
 
-*This can also be proved using the concept of fictitious force. It states that, in the accelerating coordinate system, the law of motion becomes
+*[This can also be proved using the concept of fictitious force. It states that, in the accelerating coordinate system, the law of motion becomes
 $F'=F+F_{fict}= ma'$, where $F'$ is the apparent force in the system as seen in accelerating frame of reference, $F$ is the actual external force on the mass $m$, $a'$ is the acceleration of the mass with respect to the accelerating coordinate system and $F_{fict}$ is the fictitious force which is given by $F_{fict}=-mA$, $A$ being the acceleration of the frame of reference to an inertial frame of reference.]*
 
 ## Mesaurement of the difference between $m_G$ and $m_i$
