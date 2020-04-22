@@ -56,7 +56,7 @@ where, both **L** and **N** depend on the point *O* about which the moments are 
 The conservation theorem for linear and angular momentum of a particle follows from respective equations above.
 
 
-**TODO: Add something about Energy COnservation Theorem for a particle**
+**TODO: Add something about Energy Conservation Theorem for a particle**
 
 
 
@@ -64,5 +64,4 @@ The conservation theorem for linear and angular momentum of a particle follows f
 
 ----------
 Last Updated: Thursday, 2nd Jan, 2020, 23:13 NPT
-20, 15:04 NPT  
 Author: Madhav Humagain (scimad)
