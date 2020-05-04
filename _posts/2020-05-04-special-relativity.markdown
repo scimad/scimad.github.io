@@ -180,6 +180,7 @@ Finally, let us consider that a pulse of light is transmitted along y-direction 
 As seen by $P$, the coordinate of the pulse of light is given by:
 
 $x = 0$
+
 $y = ct$
 
 As seen by $Q$, the coordinate of the pulse of light is given by:
