@@ -5,7 +5,7 @@ needs-mathjax: true
 date:   2020-05-04 08:27:55 +0545
 categories: physics classical
 ---
-## Coordinates and Coordinates Transformation
+## Coordinates and Coordinate Transformation
 In order to understand relativity, one has to understand the concept of coordinates (i.e. space and time) and coordinate transformation between two frames of reference. By coordinate transformation between two frames, we mean the set of equations relating the variables representing the coordinates of one frame of reference with the other.
 
 *Galilean transformation* for example is one such set of equation that relates the coordinates of two frames of reference that are in constant velocity with respect to each other that was used to describe observations where the velocities are very small as compared to the velocity of light. Before Einstein, Galilean transformation was was assumed to be absolutely correct laws. If $x$,$y$,$z$,$t$ are the coordinates of an event at a frame of reference and $x'$,$y'$,$z'$,$t'$ are the coordinates of same event at another frame of reference at $v$ velocity along x-axis, with all other spatial coordinate axes parallel with each other, then the transformation equation is:
@@ -55,7 +55,7 @@ As stated already, Einstein's 1905 paper started as "On the Electrodynamics of M
 * The laws of physics takes same form in all inertial frames of reference.
 * The speed of light is a universal constant i.e. it is same for all observers.
 
-## Relativistic Coordinates Transformation
+## Relativistic Coordinate Transformation
 Let us consider these two postulates and see how law of coordinate transformation changes from the Galilean transformation. Since an observer at rest and an observer at a constant motion both observe the light at same speed, something about space-time must be different from our common intuition.
 
 Let us consider two coordinate frames $P$ and $Q$. If $x$,$y$,$z$,$t$ are the coordinates of an event at a frame of reference $P$ and $x'$,$y'$,$z'$,$t'$ are the coordinates of same event at $Q$'s frame of reference which is at $v$ velocity along x-axis (keeping $Y$-$Y'$ and $Z$-$Z'$ parallel), let us try to find the relation between two sets of coordinates. We take linear relation between coordinates as follows:
