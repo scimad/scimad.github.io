@@ -175,7 +175,7 @@ t' = A(t - x\frac{v}{c^2})
 $$
 
 ### Scenario-4:
-Finally, let us consider that a pulse of light is transmitted along y-direction when origins of two frames of reference coincide. Again, the both frames of references must see light moving at speed $c$ with respect to own frame of reference. $P$ sees the light moving entirely in $y$-direction and $Q$ sees the light moving a little in negative $x'$-direction and in $y'-direction$
+Finally, let us consider that a pulse of light is transmitted along y-direction when origins of two frames of reference coincide. Again, the both frames of references must see light moving at speed $c$ with respect to own frame of reference. $P$ sees the light moving entirely in $y$-direction and $Q$ sees the light moving a little in negative $x'$-direction and in $y'$-direction.
 
 As seen by $P$, the coordinate of the pulse of light is given by:
 
