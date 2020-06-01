@@ -142,7 +142,7 @@ $l_0 = \gamma l$
 $\therefore l = \frac{l_0}{\gamma} = l_0 \sqrt{1-\frac{v^2}{c^2}}$
 
 ## Time Dilation
-Consider a clock at rest in $X'$, $Y'$ system and consider two events $A$ and $B$, both occurring at the same point in the dashed frame of reference as:
+Consider a clock at rest in $X'$, $Y'$ system and consider two events $A$ and $B$, both occurring at the same point (in space) in the dashed frame of reference as:
 
 $A: x_0', t_A'$
 
