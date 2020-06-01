@@ -7,9 +7,9 @@ categories: physics classical
 ---
 # Kinematics of Special Relativity
 
-The transformation of coordinates in two intertial frames of reference in accordance to the postulates of special relativity is called the Lorentz transformation. The laws of physics must be developed from these postulates and hence must follow the Lorentz transformation equation.
+The transformation of coordinates in two intertial frames of reference in accordance to the postulates of special relativity is called the Lorentz transformation. The relativistic laws of physics must be developed from these postulates and hence must follow the Lorentz transformation equations.
 
-As a convention, let us introduce few terms to distinguish the frames of reference. _Proper frame_ represents a moving frame of reference generelly in which an experiment or measurement is carried out whereas _lab frame_ means generally our frame of reference in which the other frame of reference is moving. Lab frame of reference is often denoted by X-Y coordinates and the proper frame or rest frame is denoted by X'-Y' coordinates and is also called dashed system sometimes.
+As a convention, let us introduce few terms to distinguish the frames of reference. _Proper frame_ represents a frame of reference generally in which an experiment or measurement is carried out whereas _lab frame_ means generally our frame of reference in which the other frame of reference (i.e. the proper frame) is moving. Lab frame of reference is often denoted by X-Y coordinates and the proper frame or rest frame is denoted by X'-Y' coordinates and is also called dashed system sometimes.
 
 ## Relativistic transformation of velocities
 
@@ -142,7 +142,7 @@ $l_0 = \gamma l$
 $\therefore l = \frac{l_0}{\gamma} = l_0 \sqrt{1-\frac{v^2}{c^2}}$
 
 ## Time Dilation
-Consider a clock at rest in $X'$, $Y'$ system and consider two events $A$ and $B$, both occurring at the same point 
+Consider a clock at rest in $X'$, $Y'$ system and consider two events $A$ and $B$, both occurring at the same point in the dashed frame of reference as:
 
 $A: x_0', t_A'$
 
