@@ -23,33 +23,56 @@ Okay, at this point, I realize, it might have been better if I had categorized t
 
 **dd**      -- Delete line.  
 **b w e**   -- Navigation keys. Go to the beginning of word on left. Go to the beginning of word to the right. Go to the end of word to the right. (You can use this like **dw** command as well, i.e. You can think of it as **db** or **de** commands. But what actually happening is the delete command **d** was waiting for selection to be deleted and **w**, **b**, **e** provide the content for deletion. You can use it along ith numbers as well, as was stated in the **dw** command above.)  
-*:q*        -- Quit. (Use *:q!*) for force quit. Also, you might notice what the **:** does. It prompts a new input where. This is used frequently.  
-*:w*        -- Save. (Use *:wq*) for save and quit.  
+**ge**      -- To move backwards to the end of the previous word  
+**:q**        -- Quit. (Use *:q!*) for force quit. Also, you might notice what the **:** does. It prompts a new input where. This is used frequently.  
+**:w**        -- Save. (Use *:wq*) for save and quit.  
 **y**        -- Yank (Copy)  
 **x**        -- Delete highlighted character (Actually puts that into clipboard, so it's like, 'cut' one letter)   
-**p**        -- Put (Paste)
+**p**        -- Put (Paste)  
+**gg**       -- Go to beginning of file  
+**G**        -- Go to the end of file  
+**[N]gg**    -- Go to the line number **N** (The line numbers are set using **:set number** (listed below))  
+**[N]G**     -- Go to the line number **N**  
+**[P]%**     -- Go to point **P** percent through the buffer  
 
 ## Haven't I written about the search key?
-**/**        -- Searches for text. Regex can be used (which I haven't yet)
+**/**        -- Searches for text. Regex can be used (which I haven't yet)  
+**:noh**      -- No highlight. (Removes highlight on last search results)  
+**:let @/ = ""** -- To clear the last used search pattern  
 
 ## Can you function without line numbers?
-Since we are dabbling in vim and its wonders already, line numbers in a code is something I can't miss out. It is useless to mention (yet I am mentioning) that without visible line numbers for reference, one cannot use the command *:<line_number>*, efficiently. This particular command led me to other commands.
+Since we are dabbling in vim and its wonders already, line numbers in a code is something I can't miss out. It is useless to mention (yet I am mentioning) that without visible line numbers for reference, one cannot use the command *:[line_number]*, efficiently. This particular command led me to other commands.
 
-**:set number**           -- set absolute line numbers in your code, text etc. Short version is **:set nu**.
-**:set relativenumber**   --This is the coolest one for sure. It will set the line your cursor is in as 0 and the line above and below as 1,2,3 and so on. Short version is **:set rnu**
+**:set number**           -- set absolute line numbers in your code, text etc. Short version is **:set nu**.  
+**:set relativenumber**   --This is the coolest one for sure. It will set the line your cursor is in as 0 and the line above and below as 1,2,3 and so on. Short version is **:set rnu**  
 
 Now lets undo these deeds.
 
-**:set nonumber**         -- unset the line numbers set before. Short version is **:set nonu**.
-**:set norelativenumber** -- unset relative line numbers set before. Short version is **:set nornu**.
-Oooooor
-just use them as **:set nu!**, to set and unset with single command.
+**:set nonumber**         -- unset the line numbers set before. Short version is **:set nonu**.  
+**:set norelativenumber** -- unset relative line numbers set before. Short version is **:set nornu**.  
+just use them as **:set nu!**, to set and unset with single command. The **!** toggles things.  
+
+## Scrolling
+**[Ctrl F]**              -- Scroll *Forward* one window of text  
+**[Ctrl D]**              -- Scroll *Down* one window of text  
+**[Ctrl U]**              -- Scroll *Up* one window of text  
+**[Ctrl B]**              -- Scroll *Back* one window of text  
+
+## Undo / Redo
+
+**u**        -- Undo  
+**[Ctrl R]** -- Redo  
+
+## Mark (similar to bookmarking) a place 
+
+**m[char]**              -- Marks a place which we can easily come back to. eg. mx  
+**`[char]**              -- Backtick and a char brings back to that marked point  
+**'[char]**              -- Go to the start of the line containing the mark  
 
 ## So that is the Vim philosophy they are talking about!
 About a month ago, I learned something really interesting and really cool about Vim. It's about actually using Vim not as an editor that has many different commands that are; say; to be remembered and all that. I learned Vim is actually about using it as a language to talk to the editor, which would make editing like talking to Vim to do  task. And I also learned the navigation options like * and # which acts like searching but most importantly, I learned about the "repeatability" philosophy. I learned how the dot (.) can be used to repeat a set of commands and how one should try to use commands in the way that could be used repeatedly. 
 
-Also, changing innerword **ciw** (and related commands such as **ci)**) made my editing more easier and at the same time more elegant.
-
+Also, changing inner word **ciw** (and related commands such as **ci)**) made my editing more easier and at the same time more elegant.
 
 ----------
 Last Updated: Thu Jan 23 14:16:48 2020 +0545  
