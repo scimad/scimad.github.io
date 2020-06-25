@@ -33,7 +33,7 @@ Also, I think this deserves a meme!
 
 ![Cherry Pick](/assets/imgs/meme/cherry-pick.jpg)
 
-*(Note: The commit hash of `commit1` is a fake one.)*
+*Can you find what's wrong with `commit1` hash*
 
 ----------
 Last Updated: Tuesday, 4 Feb, 2020, 15:04 NPT  
