@@ -2,7 +2,7 @@
 layout: post
 title:  "Getting Started with OpenGL (C++)"
 date:   2019-06-05 15:28:25 +0545
-categories: work
+categories: c++ opengl
 ---
 In this post I will show you how to write a simple OpenGL code and make it working on a Linux machine. *I believe it's not the recommended way, but until I find it out, I will be using C-style coding to learn OpenGL in C++.*
 
