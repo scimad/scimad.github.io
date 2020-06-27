@@ -2,6 +2,7 @@
 layout: problems-page
 title: 2020 Challenge - Solving 5 Problems a week
 link-title: 2020 Challenge
+order: 2
 permalink: /2020-challenge/
 ---
 
