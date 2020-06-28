@@ -34,7 +34,7 @@ Following points may be noteworthy regarding C++.
 * Hang in enough with the problem and its proposed solution before starting to code or think in terms of code
 * Make sure you are organizing the relationship between classes in a program.
 * Organize related concepts into tree structure (directed acyclic graphs) (of base and derived class). Often, virtual functions can be used to defined operations for the most general version of such a concept (i.e. in a base class) and when necessary, the operations can be reinterpreted from the redefined functions in special cases (i.e. in derived classes).
-* Sometimes evn a directed acyclic graph seems insufficient for organizing the concepts of a program and the concept may seem to be inherently mutually dependent. (I think I suffered similar situation while developing that Buddhichal - chess game.) Such mutual dependencies myst be eliminated or localized (to single class?). Clean separation of interface and implementation be best tool for untangling dependency graphs. (How?)
+* Sometimes even a directed acyclic graph seems insufficient for organizing the concepts of a program and the concept may seem to be inherently mutually dependent. (I think I suffered similar situation while developing that Buddhichal - chess game.) Such mutual dependencies myst be eliminated or localized (to single class?). Clean separation of interface and implementation be best tool for untangling dependency graphs. (How?)
 * Use templates to express commonality. If a class is a container of objects, make it a template. If a function implements an algorithm for a container, make it a template function implementing the algorithm for a family of containers.
 
 ----------
