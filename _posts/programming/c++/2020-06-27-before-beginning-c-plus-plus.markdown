@@ -11,7 +11,7 @@ The following is from the creator of C++ (*Bjarne Stoustrup*) in his book "The C
 Sometimes, I feel I might have been little too much obsessive about the C++ programming language's technical detail in itself. There's a minimum technical that I want to know about the C++ language and I have not yet felt that I have learned that, despite my occasional efforts. Again quoting Stroustrup, 
 >A programming language serves two related purposes: it provides a vehicle for the programmer to specify actions to be executed, and it provides a set of concepts for the programmer to use when thinking about what can be done.
 
-Yes, this is exactly why I want to learn C++. I want to know how to think, or what tools / concepts to use to solve a problem and how it related with things being done inside the machine. That I believe is basic C++ literacy.
+Yes, this is exactly why I want to learn C++. I want to know how to think, or what tools / concepts to use to solve a problem and how related with things being done inside the machine. That I believe is basic C++ literacy.
 
 # The Design of C++
 Following points may be noteworthy regarding C++.
