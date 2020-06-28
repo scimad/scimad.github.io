@@ -37,6 +37,12 @@ Following points may be noteworthy regarding C++.
 * Sometimes even a directed acyclic graph seems insufficient for organizing the concepts of a program and the concept may seem to be inherently mutually dependent. (I think I suffered similar situation while developing that Buddhichal - chess game.) Such mutual dependencies must be eliminated or localized (to single class?). Clean separation of interface and implementation be best tool for untangling dependency graphs. (How?)
 * Use templates to express commonality. If a class is a container of objects, make it a template. If a function implements an algorithm for a container, make it a template function implementing the algorithm for a family of containers.
 
+# References:
+* The C++ Programming Language, Bjarne Stoustrup
+
+#### PS:
+Parts of the article is inspired from the references and is presented as is and with some modification. No infringement of copyright is intended.
+
 ----------
-Last Updated: Saturday, 27 June, 2020 23:54:27 NPT  
+Last Updated: Sunday, 28 June, 2020 13:56:21 NPT  
 Author: Madhav Humagain (scimad)
