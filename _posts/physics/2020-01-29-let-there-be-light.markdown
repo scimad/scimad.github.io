@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "And let there be light (Maxwell's Equation)"
+title:  "And let there be light (Maxwell's Equations)"
 needs-mathjax: true
 date:   2020-01-29 21:10:16 +0545
 categories: physics classical
