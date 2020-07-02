@@ -38,7 +38,7 @@ Following points may be noteworthy regarding C++.
 * Use templates to express commonality. If a class is a container of objects, make it a template. If a function implements an algorithm for a container, make it a template function implementing the algorithm for a family of containers.
 
 # References:
-* The C++ Programming Language, Bjarne Stoustrup
+* The C++ Programming Language, Bjarne Stoustrup (Special Edition)
 
 #### PS:
 Parts of the article is inspired from the references and is presented as is and with some modification. No infringement of copyright is intended.
