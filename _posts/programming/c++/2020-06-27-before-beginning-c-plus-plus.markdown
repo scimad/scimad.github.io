@@ -25,7 +25,7 @@ Following points may be noteworthy regarding C++.
 # While Writing **C++** Programs, Remember:
 * Macros are almost never necessary.
 * Declare variable just when you need it.
-* Try to avoid void*, pointer arithmetic, unions and casts, except deep within the implementation of some function or class.
+* Try to avoid `void*`, pointer arithmetic, unions and casts, except deep within the implementation of some function or class.
 * Minimize use of arrays and C-style strings.
 * Design classes so that each class cleanly represents a single concept; Ask following questions to which if you don't get clear answers, the concept wasn't probably "clean" in the first place:
     * How are objects of this class created?
