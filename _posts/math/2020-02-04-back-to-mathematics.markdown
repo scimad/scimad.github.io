@@ -39,7 +39,6 @@ Definition from Cayley (in 1884):
 * $a(bc) = (ab)c$ for all *a, b, c* in *G (associativity)*
 
 ----------
-First Pulished: Tuesday, 5 Feb, 2020  
 Last Updated: Tuesday, 4 Aug, 2020, 12:29 NPT  
 Author: Madhav Humagain (scimad)
 
