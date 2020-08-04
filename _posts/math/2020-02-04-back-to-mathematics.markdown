@@ -2,7 +2,7 @@
 layout: post
 title:  "Back to Mathematics"
 date:   2020-02-05 14:10:00 +0545
-categories: programming tools 
+categories: math 
 ---
 <script type="text/javascript" async
   src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-MML-AM_CHTML">
