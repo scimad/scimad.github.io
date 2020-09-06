@@ -88,7 +88,7 @@ Note that the notations with the bar sign represent operations on normal coordin
 
 In applying projective to the imaging process, it is customary to model the world as a 3D projective space $\rm I\!P^3$ and similarly, the model for the image is the 2D projective plane $\rm I!P^2$. ,uCentral projection is simply a map from $\rm I\!P^3$ to $\rm I\!P^2$. If we consider points in $\rm I\!P^3$ written in terms of homogenous coordinates $(X, Y, Z, T)^T$ and let the centre of projection be the origin $(0, 0, 0, 1)^T$, the n we see that the set of all points $(X, Y, Z, T)^T$ for fixed $X$, $Y$, $Z$, but varying $T$ is irrelevant to where the point is imaged. In fact, the image point is the point in $\rm I!P^2$ with homogenous coordinates $(X, Y, Z)^T$.
 
-Thus the mapping may be presented by a mapping of 3D homogenous coordinates, represented by a $3 \times 4$ matrix $P$ with the block structure $P = \left[ \begin{matrix}I_{3 \times 3} | O_3 \end{matrix}\right]$
+Thus the mapping may be presented by a mapping of 3D homogenous coordinates, represented by a $3 \times 4$ matrix $P$ with the block structure $P = \left[ \begin{matrix}I_{3 \times 3} \vert  O_3 \end{matrix}\right]$
 
 When the centre of projection and projection plane are arbitrary, the most general projection is given by:
 
