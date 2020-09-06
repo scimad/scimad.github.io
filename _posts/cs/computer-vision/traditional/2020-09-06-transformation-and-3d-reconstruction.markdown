@@ -86,7 +86,7 @@ Note that the notations with the bar sign represent operations on normal coordin
 
 ## 3D-to-2D Projective Transformation:
 
-In applying projective to the imaging process, it is customary to model the world as a 3D projective space $\mathbb R^3$ and similarly, the model for the image is the 2D projective plane $\mathbb R^2$.Central projection is simply a map from $\mathbb R^3$ to $\mathbb R^2$. If we consider points in $\mathbb R^3$ written in terms of homogenous coordinates $(X, Y, Z, T)^T$ and let the centre of projection be the origin $(0, 0, 0, 1)^T$, the n we see that the set of all points $(X, Y, Z, T)^T$ for fixed $X$, $Y$, $Z$, but varying $T$ is irrelevant to where the point is imaged. In fact, the image point is the point in $\mathbb R^2$ with homogenous coordinates $(X, Y, Z)^T$.
+In applying projective to the imaging process, it is customary to model the world as a 3D projective space $\mathbb R^3$ and similarly, the model for the image is the 2D projective plane $\mathbb R^2$. Central projection is simply a map from $\mathbb R^3$ to $\mathbb R^2$. If we consider points in $\mathbb R^3$ written in terms of homogenous coordinates $(X, Y, Z, T)^T$ and let the centre of projection be the origin $(0, 0, 0, 1)^T$, the n we see that the set of all points $(X, Y, Z, T)^T$ for fixed $X$, $Y$, $Z$, but varying $T$ is irrelevant to where the point is imaged. In fact, the image point is the point in $\mathbb R^2$ with homogenous coordinates $(X, Y, Z)^T$.
 
 Thus the mapping may be presented by a mapping of 3D homogenous coordinates, represented by a $3 \times 4$ matrix $P$ with the block structure $P = \left[ \begin{matrix}I_{3 \times 3} \vert  O_3 \end{matrix}\right]$
 
