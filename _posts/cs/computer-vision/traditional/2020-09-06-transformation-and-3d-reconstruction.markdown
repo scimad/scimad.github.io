@@ -1,8 +1,9 @@
 ---
 layout: post
 title:  "Diving into 3D-Reconstruction"
-date:   2019-05-03 00:50:25 +0545
-categories: jekyll update
+date:   2020-09-06 16:04:25 +0545
+categories: cs computer-vision
+needs-mathjax: true
 ---
 
 # Review of Homography
@@ -14,7 +15,7 @@ Let us consider a point vector $(x,y)$ in 2D, that is represented by a vector no
 
 The following figure illustrates the basic transformations that occur in 2D plane:
 
-![2D-Transformations](./2d-transf.png)
+![2D-Transformations](/assets/imgs/cs/2d-transf.png)
 
 ### Translation:
 2D translations can be written as: 
@@ -79,7 +80,7 @@ where, $\tilde H$ is an arbitrary $3 \times 3$ matrix. Also note that $\tilde H$
 
 Similarly, the transformations in 3d is summarized in the image below:
 
-![3D-transformation](./3d-transf.png)
+![3D-transformation](/assets/imgs/cs/3d-transf.png)
 
 Note that the notations with the bar sign represent operations on normal coordinates and that with the tilde sign represent homogenous coordinates.
 
@@ -109,7 +110,7 @@ Furthermore, if all the points lie on a plane (we may choose this as the plane $
 
 which is a projective transformation. Following image illustrates the concept.
 
-![Projective-Transformation](./planar.png)
+![Projective-Transformation](/assets/imgs/cs/planar.png)
 
 Here all the space points are coplanar, hence there is a projective transformation between world and image planes. (i.e. $x_i = H_{3\times 3} X_i$)
 
@@ -128,3 +129,14 @@ $$\begin{aligned}
 \end{aligned}$$
 
 The $4\times 4$ matrix $H$ represents an arbitrary projective transformation and we say that the reconstruction has a projective ambiguity or is a *projective reconstruction*.
+
+# References:
+* Multiple View Geometry in Computer Vision (R. Hartley, A. Zisserman)
+* Computer Vision : Algorithm and Application (R. Szeliski)
+
+#### PS:
+Parts of the article is inspired from the references and is presented as is and with some modification. No infringement of copyright is intended.
+
+----------
+Last Updated: Monday, 1st June, 2020, 10:58 NPT
+Author: Madhav Humagain (scimad
