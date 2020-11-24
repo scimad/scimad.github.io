@@ -2,7 +2,7 @@
 layout: post
 title:  "Summary of ResNet Paper"
 date:   2020-11-23 09:06:25 +0545
-categories: cs computer-vision
+categories: cs computer-vision deep-learning
 needs-mathjax: true
 ---
 # Resnet
