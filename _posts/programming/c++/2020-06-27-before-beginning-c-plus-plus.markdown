@@ -5,7 +5,7 @@ date:   2020-06-27 22:21:25 +0545
 categories: c++
 ---
 
-The following is from the creator of C++ (*Bjarne Stoustrup*) in his book "The C++ Programming language":
+The following is from the creator of C++ (*Bjarne Stroustrup*) in his book "The C++ Programming language":
 > The most important thing to do when learning C++ is to focus on concepts and not get lost in language-technical details. The purpose of learning a programming language is to become a better programmer; that is, to become more effective at designing and implementing new systems and at maintaining old ones. For this, an appreciation of programming and design techniques is far more important than understanding of details; that understanding comes with time and practice.
 
 Sometimes, I feel I might have been little too much obsessive about the C++ programming language's technical detail in itself. There's a minimum technical that I want to know about the C++ language and I have not yet felt that I have learned that, despite my occasional efforts. Again quoting Stroustrup, 
@@ -38,7 +38,7 @@ Following points may be noteworthy regarding C++.
 * Use templates to express commonality. If a class is a container of objects, make it a template. If a function implements an algorithm for a container, make it a template function implementing the algorithm for a family of containers.
 
 # References:
-* The C++ Programming Language, Bjarne Stoustrup (Special Edition)
+* The C++ Programming Language, Bjarne Stroustrup (Special Edition)
 
 #### PS:
 Parts of the article is inspired from the references and is presented as is and with some modification. No infringement of copyright is intended.

@@ -44,13 +44,24 @@ Okay, at this point, I realize, it might have been better if I had categorized t
 Since we are dabbling in vim and its wonders already, line numbers in a code is something I can't miss out. It is useless to mention (yet I am mentioning) that without visible line numbers for reference, one cannot use the command *:[line_number]*, efficiently. This particular command led me to other commands.
 
 **:set number**           -- set absolute line numbers in your code, text etc. Short version is **:set nu**.  
-**:set relativenumber**   --This is the coolest one for sure. It will set the line your cursor is in as 0 and the line above and below as 1,2,3 and so on. Short version is **:set rnu**  
+**:set relativenumber**   -- This is the coolest one for sure. It will set the line your cursor is in as 0 and the line above and below as 1,2,3 and so on. Short version is **:set rnu**  
 
 Now lets undo these deeds.
 
 **:set nonumber**         -- unset the line numbers set before. Short version is **:set nonu**.  
 **:set norelativenumber** -- unset relative line numbers set before. Short version is **:set nornu**.  
-just use them as **:set nu!**, to set and unset with single command. The **!** toggles things.  
+
+Just use them as **:set nu!**, to set and unset with single command. The **!** toggles things.  
+
+## Managing windows and navigating
+**:split**   -- Divides the screen to to horizontal splits  
+**:vsplit**  -- Divides the screen to to vertical splits  
+
+**[Ctrl w + L]** -- Move the current window to the "far right" split  
+**[Ctrl w + H]** -- Move the current window to the "far left" split  
+**[Ctrl w + J]** -- Move the current window to the "very bottom" split  
+**[Ctrl w + K]** -- Move the current window to the "very top" split  
+
 
 ## Scrolling
 **[Ctrl F]**              -- Scroll *Forward* one window of text  
