@@ -46,13 +46,12 @@ Once the execution of the OpenGL program is verified, we move onto another examp
 {% include attachments/opengl-basic.cpp %}
 {% endhighlight%}
 
-Save the program as `test.c` and then run the following command in terminal. \[Thanks to Jacob Knitter from the Netherlands]\
+Save the program as `test.c` and then run the following command in terminal. \[Thanks to Jacob Knitter from the Netherlands]
 
 {% highlight bash%}
 $  g++ test.c -lGL -lGLEW -lglut -lGLU
 $ ./a.out
 {% endhighlight%}
-
 
 The following image shows the output of the program:
 
@@ -63,5 +62,5 @@ So, this brings us to the *end of the beginning* of OpenGL with C/C++. I hope to
 [opengl-examples]: https://www.opengl.org/archives/resources/code/samples/glut_examples/examples/examples.html
 
 ----------
-Last Updated: Saturday, 7 Mar, 2020 20:41:32 NPT  
+Last Updated: Saturday, 9 Jul, 2022 23:59:20 NPT  
 Author: Madhav Humagain (scimad)
