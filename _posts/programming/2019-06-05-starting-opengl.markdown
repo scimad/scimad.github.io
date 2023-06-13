@@ -46,6 +46,14 @@ Once the execution of the OpenGL program is verified, we move onto another examp
 {% include attachments/opengl-basic.cpp %}
 {% endhighlight%}
 
+Save the program as `test.c` and then run the following command in terminal. \[Thanks to Jacob Knitter from the Netherlands]\
+
+{% highlight bash%}
+$  g++ test.c -lGL -lGLEW -lglut -lGLU
+$ ./a.out
+{% endhighlight%}
+
+
 The following image shows the output of the program:
 
 ![Sample Output](/assets/imgs/opengl-basic.png)
