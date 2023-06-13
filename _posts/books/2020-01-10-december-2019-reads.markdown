@@ -2,7 +2,7 @@
 layout: post
 title:  "Dec 2019 Reads"
 date:   2020-01-10 01:05:18 +0545
-categories: 
+categories: books
 ---
 
 **बालक हराएको सुचना**
