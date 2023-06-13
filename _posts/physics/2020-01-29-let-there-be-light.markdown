@@ -1,23 +1,10 @@
 ---
 layout: post
-title:  "And let there be light"
+title:  "And let there be light (Maxwell's Equations)"
+needs-mathjax: true
 date:   2020-01-29 21:10:16 +0545
 categories: physics classical
 ---
-<script type="text/javascript" async
-  src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-MML-AM_CHTML">
-</script>
-
-<script type="text/x-mathjax-config">
-    MathJax.Hub.Config({
-        TeX: { equationNumbers: { autoNumber: "AMS" } },
-        displayAlign: "center",
-        tex2jax: {
-            inlineMath: [ ['$','$'], ["\\(","\\)"] ],
-            processEscapes: true
-        }
-    });
-</script>
 
 ## Did god say "Let there be light!" using these equations?
 

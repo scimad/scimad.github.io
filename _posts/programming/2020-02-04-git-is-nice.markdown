@@ -2,7 +2,7 @@
 layout: post
 title:  "Git is nice"
 date:   2020-02-04 14:19:00 +0545
-categories: programming tools 
+categories: programming tools
 ---
 So, this is about stuff in git that I have liked or learned or may need later in future. Git is a huge thing, a huge thing, that many beginners underestimate. Even many of us who like to call ourselves programmers actually don’t like going deep and using its best. But `git` is nice, really!. Git to me isn’t something about just coding. Somehow to me, it is almost like a life management tool and git usage is a metric of my overall satisfaction of life.
 
@@ -33,7 +33,7 @@ Also, I think this deserves a meme!
 
 ![Cherry Pick](/assets/imgs/meme/cherry-pick.jpg)
 
-*(Note: The commit hash of `commit2` is a fake one.)*
+*Can you find what's wrong with `commit1` hash*
 
 ----------
 Last Updated: Tuesday, 4 Feb, 2020, 15:04 NPT  

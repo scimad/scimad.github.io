@@ -2,7 +2,7 @@
 layout: post
 title:  "Back to C++"
 date:   2019-05-09 11:11:25 +0545
-categories: work
+categories: c++
 ---
 When I wrote [my first C++ project][buddhichal] (Buddhichal / Chess, 2015), I thought I had understood OOP. I thought, I had understood the notion of objects and classes. I had, a little. But only when my friend Prakash gave it a look, I knew how primitive (C-like) it was in sense of actually using OOP features and design principles. Objects were not segregrated in terms of thier responsibilites. I realized that the dependencies of methods were not clear (in my mind and in the program henceforth). Many `static` elements were used. Part of the problem was also because I have used `OpenGL` {which is a C(Not C++ / OOP)-library} to render graphics for project.
 
@@ -68,3 +68,7 @@ x=222 and y=321
 ***This blogpost is not yet a complete one. I will write more about my C++ programming experience in other posts.***
 
 [buddhichal]: https://github.com/scimad/buddhichal
+
+----------
+Last Updated: Saturday, 7 Mar, 2020 20:40:04 NPT  
+Author: Madhav Humagain (scimad)

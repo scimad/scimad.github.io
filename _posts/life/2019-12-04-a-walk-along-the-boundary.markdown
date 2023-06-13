@@ -26,3 +26,7 @@ Life is a subtle boundary ,  an infinite boundary that separates yet permeates s
 Life isn’t in the desire to live, nor in the resentment of having to live. Not in breathing in and exhaling out  but somewhere in between. Nor following the mind’s command, nor in rejecting it, but on hearing it. Not in the water not in the vapor, but in a constant dynamicity of vaporization and condensation. 
 
 Not in opening the eyes or in shutting the eyes, but in between.
+
+----------
+Last Updated: 2019-12-04 20:50:15 +0545  
+Author: Madhav Humagain (scimad)

@@ -2,7 +2,7 @@
 layout: post
 title:  "Types and Casting in C++"
 date:   2019-08-12 00:13:31 +0545
-categories: programming
+categories: c++
 ---
 The fundamental types in C++ are there to support storage of different commonly used forms of data in general programming such as boolean, characters, integers, floating-point values. Correspoinding to those, there are the following data types in C++: `bool`, `char`, `wchar_t`, `short`, `int`, `long`, `float`, `double`, `long double`. There is also something of type `void` that we will talk about later.
 
@@ -31,3 +31,7 @@ It is also important here to note that the use of macro can get tricky sometimes
 `a = MAX(MAX(2,3), 4)`
 
 
+
+----------
+Last Updated: Saturday, Mar 7 2020 20:40:04 NPT  
+Author: Madhav Humagain (scimad)

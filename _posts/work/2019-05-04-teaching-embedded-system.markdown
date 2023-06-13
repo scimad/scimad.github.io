@@ -26,3 +26,7 @@ I will be using online tools / platforms to make classroom effective. The links 
 [thapathali-campus]: https://www.tcioe.edu.np/
 [ioenotes-syllabus]: http://www.ioenotes.edu.np/ioe-syllabus/embedded-system-382
 
+
+----------
+Last Updated: Saturday, 7 Mar, 2020 20:40:04 NPT  
+Author: Madhav Humagain (scimad)

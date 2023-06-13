@@ -2,7 +2,7 @@
 layout: post
 title:  "Dec 2019 Reads"
 date:   2020-01-10 01:05:18 +0545
-categories: life reads
+categories: 
 ---
 
 **बालक हराएको सुचना**
@@ -23,3 +23,4 @@ categories: life reads
 
 ----------
 Last Updated: Thursday, Jan 10, 2020, 01:47 (+0545)
+Author: Madhav Humagain (scimad)

@@ -1,13 +1,10 @@
 ---
 layout: post
 title:  "Some Physics"
+needs-mathjax: true
 date:   2020-01-15 01:25:20 +0545
 categories: physics
 ---
-<script type="text/javascript" async
-  src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-MML-AM_CHTML">
-</script>
-
 With a clear confusion on why I want to study what I want to study for my academic journey ahead, I started looking at [*The Feynman Lectures on Physics*](https://www.feynmanlectures.caltech.edu/I_15.html) as an inspiration for what I am about to explain. Since by now I have done some computer vision stuffs (to a degree that puts me not unrealistically far from writing some decent code on computer vision or some sort of research work (that would be a benchmark for satisfaction from the couple of years at job)) and I really find myself eligible to pursue my further education on Computer Vision if I really want to, I thought about looking into some other fields that I am really interested in, but with a clear confusion as I already said.
 
 When I started studying physics, the reason was to understand more about nature. That was my only conscious goal. And growing up, that goal fine tuned itself; probably; to a difficult one, that is , to understand the true nature of reality. The method of scientific enquiry never promises that physics is the study of true nature of reality, but rather a process of finetuning that understanding by observation, modeling and a way to validate the understanding. I believe that many of physics scholars might even aim to fully understand nature through physics, though that's not the precise domain or method of physics.
@@ -37,3 +34,4 @@ Good night, peace.
 
 ----------
 Last Updated: Wednesday, Jan 15, 2020, 02:37 (+0545) NPT
+Author: Madhav Humagain (scimad)

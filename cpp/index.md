@@ -1,14 +1,14 @@
 ---
-layout: homepage
+layout: page
+title: C++
+permalink: /c++/
 ---
 
 <div class="home">
 
-  <h1 class="page-heading">Posts</h1>
-
   <ul class="post-list">
     {% for post in site.posts %}
-      {% if post.show-in-homepage != false %}
+      {% if post.categories contains 'c++' %}
       <li>
         <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
 
