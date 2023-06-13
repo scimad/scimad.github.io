@@ -12,6 +12,7 @@ description: > # this means to ignore newlines until "baseurl:"
   Hey, this is my personal blog. I plan to write the stories of my life here.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://scimad.github.io" # the base hostname & protocol for your site
+permalink: /:year/:month/:day/:title
 twitter_username: scimad
 github_username:  scimad
 
