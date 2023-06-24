@@ -21,9 +21,9 @@ I studied:
 
 My online contact address:
 
-personal: om.scimad@gmail.com
-Boutique Technologies: madhav@boutique.tech
-Thapathali Campus: madhav@tcioe.edu.np
+Personal: om.scimad@gmail.com\
+Boutique Technologies: madhav@boutique.tech\
+Thapathali Campus: madhav@tcioe.edu.np\
 EKBana: madhav.humagain@ekbana.info (Not active anymore)
 
 I absolutely love emails. If you want to be in touch, my preferred way is either emails or in-person meets.
