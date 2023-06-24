@@ -7,13 +7,26 @@ order: 3
 
 Thanks for coming here!
 
-I am Madhav. I work as a TA (part-time) at IOE, [Thapathali Campus][thapathali-campus] and as a ML/CV Engineer at [Ekbana Solutions][ekbana].
+I am Madhav. I work as Junior Lighting Automation Engineer at Boutique Technologies, Melbourne.
 
-You can contact me via following email addresses according to your purposes:
+In the past I have worked as:
+ * TA (part-time) at IOE, [Thapathali Campus][thapathali-campus]
+ * Computer Vision Engineer at [E.K. Solutions (Ekbana)][ekbana]
+ * Intern at Future-Lab Nepal
 
-personal: scimad2.71@gmail.com  
-CV/ML   : madhav.humagain@ekbana.info  
-academic: madhav@tcioe.edu.np  
+I studied:
+ * Bachelors of Engineering (Electronics and Communication) at IOE, [Thapathali Campus][thapathali-campus], Tribhuvan University.
+ * Bachelors of Science (Physics) at IOST, Tri-Chandra Multiple Campus, Tribhuvan University.
+ * Science at St. Lawrence H.S. School, Kathmandu
+
+My online contact address:
+
+personal: om.scimad@gmail.com
+Boutique Technologies: madhav@boutique.tech
+Thapathali Campus: madhav@tcioe.edu.np
+EKBana: madhav.humagain@ekbana.info (Not active anymore)
+
+I absolutely love emails. If you want to be in touch, my preferred way is either emails or in-person meets.
 
 <div class="fb-comments" data-href="https://scimad.github.io/about/" data-width="600" data-numposts="5"></div>
 

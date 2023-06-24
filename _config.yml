@@ -7,7 +7,7 @@
 
 # Site settings
 title: scimad | blog
-email: scimad2.71@gmail.com
+email: om.scimad@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Hey, this is my personal blog. I plan to write the stories of my life here.
 baseurl: "" # the subpath of your site, e.g. /blog
