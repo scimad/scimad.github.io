@@ -4,16 +4,16 @@ title:  "Some Truths About Truth"
 date:   2023-10-14 03:14:07 +1100
 categories: life
 ---
-Johnny, Johnny,
-Yes Papa!
-Eating sugar?
-No papa.
-Telling lies?
-No papa.
-Open your mouth
-Ha ha ha!
+Johnny, Johnny,  
+Yes Papa!  
+Eating sugar?  
+No papa.  
+Telling lies?  
+No papa.  
+Open your mouth!  
+Ha ha ha..  
 
-Remember this rhyme? Very early in our age, we start dealing with truths and lies. Lies creep into our life as we grow old even though lies are condemned in almost all societies and traditional cultures. However, lies are almost inevitable truths of our modern life and we don't even bother caring much about these unless those are matter to a very big extent.
+Remember this rhyme? Since very early in our childhood, we start dealing with truths and lies. Lies creep into our life as we grow old even though lies are condemned in almost all societies and traditional cultures. However, lies are almost inevitable truths of our modern life and we don't even bother caring much about these unless those are matter to a very big extent.
 
 We lie every day to people around us. A child breaks a glass and points to his pet. He goes on lying to his teacher about his homework. Do you remember all those silly homework excuses you used to make? We lie our parents about why we are late from school. We lie about our grades. We lie about the bruises from the fight. We become accostumed with lying to "How are you?". We say "I am fine" without even noticing that we may be lying. It is stored in our "muscle memory" to say that we are fine. Similarly, we go on lying about all the different things in life without much thought.
 
