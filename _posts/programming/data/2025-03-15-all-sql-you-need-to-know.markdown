@@ -1,14 +1,14 @@
 ---
 layout: post
 title:  "SQL"
-date:   2025-03-15 11:41 +
-categories: posts
+date:   2025-03-16 11:41 +1100
+categories: data
 ---
 
 # Quick SQL Guide
 
 ### A. Notes from Alex The Analyst Video
-[This reference](#alex-the-analyst) covers the following topics and I am taking notes of the non trivial syntaxes and concepts:
+[This reference](#references) covers the following topics and I am taking notes of the non trivial syntaxes and concepts:
 
 Basic:
 - Intro
@@ -182,7 +182,7 @@ Note that CTE results are still not reusable in a different query.
 - Just use `TEMPORARY` keyword to create the table. the `CREATE TEMPORARY TABLE`
 - Reuse the table (within the same session) as many times as you want
 
-### B. From *NEON | PostgreSQL Tutorial*
+### B. From (*NEON | PostgreSQL Tutorial*)[#neon-postgresql]
 #### 1. `CREATE FUNCTION` statement
 - To create user definted function
 Syntax:
@@ -252,6 +252,7 @@ The variables in the param list can be `IN` mode (default), `OUT` mode or `INOUT
 Following example creates a function to generate random numbers between 0 and 100 and finds the min, max and avg of it.
 
 {%highlight sql%}
+
 CREATE OR REPLACE FUNCTION find_distribution(
     sample_size int,
     OUT max_val int,
@@ -271,14 +272,41 @@ BEGIN
 END;
 $$;
 
-select * from find_distribution(100);
+SELECT * from find_distribution(100);
+
 {%endhighlight%}
 
 #### 2. `CREATE PROCEDURE` statement
+You need them because functions can't execute (start, commit or rollback) a transaction. Copying an example straight out of [their tutorial](https://neon.tech/postgresql/postgresql-plpgsql/postgresql-create-procedure):
 
-# References: {#alex-the-analyst}
+{%highlight sql%}
+create or replace procedure transfer(
+   sender int,
+   receiver int,
+   amount dec
+)
+language plpgsql
+as $$
+begin
+    -- subtracting the amount from the sender's account
+    update accounts
+    set balance = balance - amount
+    where id = sender;
+
+    -- adding the amount to the receiver's account
+    update accounts
+    set balance = balance + amount
+    where id = receiver;
+
+    commit;
+end;$$;
+{%endhighlight%}
+
+# References: {#references}
 * [Learn SQL Beginner to Advanced in Under 4 Hours - Alex The Analyst](https://www.youtube.com/watch?v=OT1RErkfLNQ)
+* [Neon PostgreSQL Tutorial](https://neon.tech/postgresql/tutorial)
+
 
 ----------
-Last Updated: Saturday, 15 March, 2023 14:22 AEDT  
+Last Updated: Sunday, 16 March, 2025 14:25 AEDT  
 Author: Madhav Om
