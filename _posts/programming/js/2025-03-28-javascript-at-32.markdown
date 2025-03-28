@@ -116,6 +116,8 @@ arrowFunction() => {
 - To chain methods of the function, just return `this` from the method that you want to allow chaining
 - Arrow functions don't have their own `this` but rather takes from outer context.
 
+### The `new` thing [TO BE CONTINUED]
+
 
 # References:
 1. [The Modern Javascript Tutorial](https://javascript.info/)
