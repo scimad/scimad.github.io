@@ -101,6 +101,21 @@ arrowFunction() => {
 
 ### Testing [WIP Code](https://github.com/scimad/learning-node/tree/master/2025/automated-tests) and [Docs](https://javascript.info/testing-mocha)
 
+### Object Referencing
+- When copying (assigning) a variable to another one, javascript copies the actual content for primitive types but for Objects, javascript copies the reference of the Object.
+- As such, the `==` operator which compares (with type coercion) two variables are only equal only if they point to the same object (think of it as if the variable that stores the object is only storing the object's address in memory.)
+- Like in C++, const objects are only const references. The references can't be changed but the actual content of the object can  be.
+- copying object (contents of objects) can be done by using `Object.assign(dest, ...sources)` (shallow copy) and we can `structuredClone()` for deep-clone.
+
+
+### Garbage Collection:
+- Garbage collection is automatically done and invisible to us. It's all done using a concept called 'reachability'. [This page](https://javascript.info/garbage-collection) writes about it in short and sweet!
+
+### The `this` thing
+- In JS, `this` behaves differently compared to most other languages. It can be used in any method even if it's not inside an object and `this` is evaluated in run-time depending on the context.
+- To chain methods of the function, just return `this` from the method that you want to allow chaining
+- Arrow functions don't have their own `this` but rather takes from outer context.
+
 
 # References:
 1. [The Modern Javascript Tutorial](https://javascript.info/)
