@@ -65,7 +65,7 @@ function showCancel() {
 ask("Do you agree?", showOk, showCancel);
 {%endhighlight%}
 
-### Here come's the hero: Arrow Notation
+## Here come's the hero: Arrow Notation
 
 {% highlight javascript %}
 // Function declaration
@@ -99,7 +99,7 @@ arrowFunction() => {
 };
 {%endhighlight%}
 
-### Testing [WIP Code](https://github.com/scimad/learning-node/tree/master/2025/automated-tests) and [Docs](https://javascript.info/testing-mocha)
+## Testing [WIP Code](https://github.com/scimad/learning-node/tree/master/2025/automated-tests) and [Docs](https://javascript.info/testing-mocha)
 
 ### Object Referencing
 - When copying (assigning) a variable to another one, javascript copies the actual content for primitive types but for Objects, javascript copies the reference of the Object.
@@ -108,15 +108,15 @@ arrowFunction() => {
 - copying object (contents of objects) can be done by using `Object.assign(dest, ...sources)` (shallow copy) and we can `structuredClone()` for deep-clone.
 
 
-### Garbage Collection:
+## Garbage Collection:
 - Garbage collection is automatically done and invisible to us. It's all done using a concept called 'reachability'. [This page](https://javascript.info/garbage-collection) writes about it in short and sweet!
 
-### The `this` thing
+## The `this` thing
 - In JS, `this` behaves differently compared to most other languages. It can be used in any method even if it's not inside an object and `this` is evaluated in run-time depending on the context.
 - To chain methods of the function, just return `this` from the method that you want to allow chaining
 - Arrow functions don't have their own `this` but rather takes from outer context.
 
-### The `new` thing
+## The `new` thing
 Apart from creating an object with the `{}` syntax, objects can also be created using contructor functions that are, as a conventional notation, named with capital letter first and should be executed only with `new` operator. The `this` operator is returned after funciton is executed. Without the new operator, the `this` is not returned.
 
 By the way, we can omit parentheses after `new`.
@@ -150,6 +150,9 @@ function User(name) {
 let john = User("John"); // redirects call to new User
 alert(john.name); // John
 {%endhighlight%}
+
+## The `?.` thing (Optional Chaining) [WIP]
+
 
 
 # References:
