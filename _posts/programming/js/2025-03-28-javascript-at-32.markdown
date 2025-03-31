@@ -116,7 +116,40 @@ arrowFunction() => {
 - To chain methods of the function, just return `this` from the method that you want to allow chaining
 - Arrow functions don't have their own `this` but rather takes from outer context.
 
-### The `new` thing [TO BE CONTINUED]
+### The `new` thing
+Apart from creating an object with the `{}` syntax, objects can also be created using contructor functions that are, as a conventional notation, named with capital letter first and should be executed only with `new` operator. The `this` operator is returned after funciton is executed. Without the new operator, the `this` is not returned.
+
+By the way, we can omit parentheses after `new`.
+
+
+{%highlight javascript%}
+function User(name) {
+  // this = {};  (implicitly)
+
+  // add properties to this
+  this.name = name;
+  this.isAdmin = false;
+
+  // return this;  (implicitly)
+}
+
+let user = new User("Jack");
+{%endhighlight%}
+
+We can, within the function, see if it was called in constructor mode or in regular mode.
+
+{%highlight javascricpt%}
+function User(name) {
+  if (!new.target) { // if you run me without new
+    return new User(name); // ...I will add new for you
+  }
+
+  this.name = name;
+}
+
+let john = User("John"); // redirects call to new User
+alert(john.name); // John
+{%endhighlight%}
 
 
 # References:
