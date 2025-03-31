@@ -41,4 +41,4 @@ The first way is using it as an independent SoC (System on a Chip) that doesn't 
 
 ----------
 Last Updated: Saturday, 7 Mar, 2020 20:40:04 NPT  
-Author: Madhav Humagain (scimad)
+Author: Madhav Om (scimad)

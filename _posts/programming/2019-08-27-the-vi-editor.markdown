@@ -87,4 +87,4 @@ Also, changing inner word **ciw** (and related commands such as **ci)**) made my
 
 ----------
 Last Updated: Thu Jan 23 14:16:48 2020 +0545  
-Author: Madhav Humagain (scimad) & Sharmila Upadhyaya
+Author: Madhav Om (scimad) & Sharmila Upadhyaya

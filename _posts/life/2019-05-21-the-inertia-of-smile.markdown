@@ -35,4 +35,4 @@ Sometimes she makes fun of my awkward science and engineering. She says she does
 
 ----------
 Last Updated: Saturday, 7 Mar, 2020 20:40:04 NPT  
-Author: Madhav Humagain (scimad)
+Author: Madhav Om (scimad)

@@ -19,4 +19,4 @@ Dr. Brian Greene, a handsome theoretical physicist, a string theorist, who broug
 
 ----------
 Last Updated: Wednesday, Jun 14, 2023, 04:01 AEST(UTC+10)
-Author: Madhav Humagain (scimad)
+Author: Madhav Om (scimad)

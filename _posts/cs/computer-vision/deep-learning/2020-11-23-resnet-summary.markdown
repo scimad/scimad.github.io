@@ -103,4 +103,4 @@ $$F(x) := H(x) − x$$. Though both forms can be approximated by non linear laye
 
 ----------
 Last Updated: Monday, 23rd November, 2020, 09:34:29 NPT
-Author: Madhav Humagain (scimad)
+Author: Madhav Om (scimad)

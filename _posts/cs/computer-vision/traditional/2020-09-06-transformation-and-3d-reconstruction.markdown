@@ -139,5 +139,5 @@ Parts of the article is inspired from the references and is presented as is and 
 
 ----------
 Last Updated: Sunday, 6th September, 2020, 16:21:52 NPT
-Author: Madhav Humagain (scimad)
+Author: Madhav Om (scimad)
 

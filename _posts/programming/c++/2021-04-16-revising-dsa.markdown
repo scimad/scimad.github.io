@@ -74,4 +74,4 @@ not judge the concept by the necessarily tiny examples found in this book.
 
 ----------
 Last Updated: Monday, 19 April, 2021 10:10:49 NPT  
-Author: Madhav Humagain (scimad)
+Author: Madhav Om (scimad)

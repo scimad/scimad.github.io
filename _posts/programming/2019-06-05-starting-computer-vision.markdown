@@ -10,4 +10,4 @@ There's a problem in engineering drawing where we have to traceback the orthogra
 
 ----------
 Last Updated: Saturday, 7 Mar, 2020 20:40:04 NPT  
-Author: Madhav Humagain (scimad)
+Author: Madhav Om (scimad)

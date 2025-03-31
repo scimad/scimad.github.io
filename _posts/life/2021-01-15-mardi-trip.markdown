@@ -17,4 +17,4 @@ categories: life
 
 ----------
 Last Updated: Friday, 15 Jan, 2021 23:21:15 NPT  
-Author: Madhav Humagain (scimad)
+Author: Madhav Om (scimad)

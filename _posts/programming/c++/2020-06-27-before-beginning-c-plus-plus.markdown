@@ -45,4 +45,4 @@ Parts of the article is inspired from the references and is presented as is and 
 
 ----------
 Last Updated: Sunday, 28 June, 2020 13:56:21 NPT  
-Author: Madhav Humagain (scimad)
+Author: Madhav Om (scimad)

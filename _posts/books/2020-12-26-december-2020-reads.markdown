@@ -19,4 +19,4 @@ categories: life reads
 
 ----------
 Last Updated: Saturday, Dec 26, 2020, 13:56:35 (+0545)
-Author: Madhav Humagain (scimad)
+Author: Madhav Om (scimad)

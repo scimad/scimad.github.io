@@ -74,4 +74,4 @@ So, finally I came to more elegant looking stuffs which was already there in my 
 
 ----------
 Last Updated: Tuesday, 9 Oct, 2019  
-Author: Madhav Humagain (scimad)
+Author: Madhav Om (scimad)

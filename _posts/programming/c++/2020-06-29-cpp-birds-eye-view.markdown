@@ -42,4 +42,4 @@ User-defined types paradigm is themed on *"Decide which types you want; provide 
 
 ----------
 Last Updated: Sunday, 6 September, 2020 15:48:21 NPT  
-Author: Madhav Humagain (scimad)
+Author: Madhav Om (scimad)

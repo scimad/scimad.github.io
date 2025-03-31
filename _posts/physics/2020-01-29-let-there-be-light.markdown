@@ -88,4 +88,4 @@ $$v = \frac{1}{\sqrt{\mu_0 \epsilon_0}} = 3 \times 10^8 m/s (approx.)$$
 
 ----------
 Last Updated: Wednesday, 30 Jan, 2020, 11:54 NPT  
-Author: Madhav Humagain (scimad)
+Author: Madhav Om (scimad)

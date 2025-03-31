@@ -29,4 +29,4 @@ I will be using online tools / platforms to make classroom effective. The links 
 
 ----------
 Last Updated: Saturday, 7 Mar, 2020 20:40:04 NPT  
-Author: Madhav Humagain (scimad)
+Author: Madhav Om (scimad)

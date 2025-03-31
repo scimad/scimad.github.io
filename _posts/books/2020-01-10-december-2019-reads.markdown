@@ -16,4 +16,4 @@ categories: books
 
 ----------
 Last Updated: Thursday, Jan 10, 2020, 01:47 (+0545)
-Author: Madhav Humagain (scimad)
+Author: Madhav Om (scimad)

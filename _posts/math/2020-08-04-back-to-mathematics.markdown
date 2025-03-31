@@ -40,5 +40,5 @@ Definition from Cayley (in 1884):
 
 ----------
 Last Updated: Tuesday, 4 Aug, 2020, 12:29 NPT  
-Author: Madhav Humagain (scimad)
+Author: Madhav Om (scimad)
 

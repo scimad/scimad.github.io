@@ -64,4 +64,4 @@ The conservation theorem for linear and angular momentum of a particle follows f
 
 ----------
 Last Updated: Thursday, 2nd Jan, 2020, 23:13 NPT
-Author: Madhav Humagain (scimad)
+Author: Madhav Om (scimad)

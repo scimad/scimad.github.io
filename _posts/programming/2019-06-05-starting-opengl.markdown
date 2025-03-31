@@ -63,4 +63,4 @@ So, this brings us to the *end of the beginning* of OpenGL with C/C++. I hope to
 
 ----------
 Last Updated: Saturday, 9 Jul, 2022 23:59:20 NPT  
-Author: Madhav Humagain (scimad)
+Author: Madhav Om (scimad)

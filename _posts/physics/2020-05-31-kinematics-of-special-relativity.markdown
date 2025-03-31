@@ -176,4 +176,4 @@ Parts of the article is inspired from the references and is presented as is and 
 
 ----------
 Last Updated: Monday, 1st June, 2020, 10:58 NPT
-Author: Madhav Humagain (scimad)
+Author: Madhav Om (scimad)

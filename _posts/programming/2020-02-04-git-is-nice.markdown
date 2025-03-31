@@ -37,5 +37,5 @@ Also, I think this deserves a meme!
 
 ----------
 Last Updated: Tuesday, 4 Feb, 2020, 15:04 NPT  
-Author: Madhav Humagain (scimad)
+Author: Madhav Om (scimad)
 
