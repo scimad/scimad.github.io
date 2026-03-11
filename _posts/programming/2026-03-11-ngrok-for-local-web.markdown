@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Fixing CORS & Loopback Errors When Exposing an Angular Dev Server with ngrok"
-date:   2025-03-11 11:35:00 +1100
+date:   2026-03-11 11:35:00 +1100
 categories: programming
 ---
 While exposing a local Angular frontend through **ngrok**, I ran into multiple errors when the frontend tried to call a backend API running on `localhost`. This post documents the exact problem and the working solution.
@@ -200,5 +200,5 @@ No CORS issues, no loopback restrictions, and only a single ngrok tunnel is requ
 
 This approach keeps the development setup simple, avoids CORS headaches, and works with a **single ngrok tunnel on the free plan**.
 ----------
-Last Updated: 2025-03-11 11:35:00 +1100
+Last Updated: 2026-03-11 11:35:00 +1100
 Author: Madhav Om (scimad)
